@@ -14,7 +14,7 @@ CREATE TABLE IF NOT EXISTS accidents(
     alt VARCHAR(255),
     major_city VARCHAR(255),
     color VARCHAR(255),
-    injury_reported ENUM('NO', 'YES'), -- Добавьте значение 1 для True и 0 для False
+    injury_reported VARCHAR(255), -- Добавьте значение 1 для True и 0 для False
     city_ VARCHAR(255),
     state_ VARCHAR(255)
 );

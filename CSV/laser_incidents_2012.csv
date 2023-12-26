@@ -10,7 +10,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 1-Jan-12,0508,WSTCHSTR,1,HELO,1100,LGA,Red,NO,New York,New York
 1-Jan-12,0547,SWA2102,1,B737,1800,OAK,Green,NO,Oakland,California
 1-Jan-12,0638,ASH2849,1,DH8B,1800,NYL,Blue,NO,Yuma,Arizona
-1-Jan-12,0725,CAREFLT7,1,UNKN,UNKN,NYL,Blue,NO,Yuma,Arizona
+1-Jan-12,0725,CAREFLT7,1,,,NYL,Blue,NO,Yuma,Arizona
 1-Jan-12,0735,N167BB,1,BE9L,1500,NYL,Blue,NO,Yuma,Arizona
 1-Jan-12,1750,SWA971,1,B739,10000,SFO,Green,NO,San Francisco,California
 1-Jan-12,1911,N323EB,1,C185,1800,SJC,Green,NO,San Jose,California
@@ -24,7 +24,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 3-Jan-12,0204,ASH3787,1,CRJ2,5000,NYG,Green,NO,Quantico,Virginia
 3-Jan-12,0307,AWE711,1,A321,6500,LAX,Green,NO,Los Angeles,California
 3-Jan-12,0452,UAL240,1,B752,3600,LAX,Green,*NO,Los Angeles,California
-3-Jan-12,0510,TNO1300,1,A30B,3500,LAX,UNKN,NO,Los Angeles,California
+3-Jan-12,0510,TNO1300,1,A30B,3500,LAX,,NO,Los Angeles,California
 3-Jan-12,0531,N428PA,1,P28A,4000,DVT,Green,NO,Phoenix,Arizona
 3-Jan-12,0608,JNH9,1,CL30,4200,TUS,Green,NO,Tucson,Arizona
 3-Jan-12,0609,ASH2834,1,CRJ9,4200,TUS,Green,NO,Tucson,Arizona
@@ -33,7 +33,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 3-Jan-12,2311,CJC4914,1,DH8D,6300,RDU,Green,NO,Raleigh-Durham,North Carolina
 4-Jan-12,0035,FDX51,1,DC10,1000,SJU,Green,NO,San Juan,Puerto Rico
 4-Jan-12,0055,ASQ5903,1,E45X,4500,LIT,Green,NO,Little Rock,Arkansas
-4-Jan-12,0220,N3980A,1,HELO,UNKN,ELP,Blue,NO,El Paso,Texas
+4-Jan-12,0220,N3980A,1,HELO,,ELP,Blue,NO,El Paso,Texas
 4-Jan-12,0400,SLIM24,1,C172,FL210,HII,Green,NO,Lake Havasu,Arizona
 4-Jan-12,0755,TV11,1,AS50,1400,BUR,Green,NO,Burbank,California
 4-Jan-12,1047,JLG695,1,BE9L,11000,RNO,Green/Red,NO,Reno,Nevada
@@ -42,7 +42,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 5-Jan-12,0000,HAWK305,1,F18,1000,NTU,Green,NO,Virginia Beach,Virginia
 5-Jan-12,0143,SWA664,1,B737,12000,eca,Green,NO,Linden,California
 5-Jan-12,0203,AMF1843,1,BE99,9000,SLC,Green,NO,Salt Lake City ,Utah
-5-Jan-12,0215,JAZZ73,1,UNKN,3000,CMH,Green,NO,Columbus,Ohio
+5-Jan-12,0215,JAZZ73,1,,3000,CMH,Green,NO,Columbus,Ohio
 5-Jan-12,0226,GLA23F,1,B190,12000,DEN,Blue,NO,Denver,Colorado
 5-Jan-12,0231,BXR1949,1,C402,5500,MYV,Green,NO,Maryville,California
 5-Jan-12,0251,EGF3574,1,E145,15000,PBI,Green,NO,West Palm Beach,Florida
@@ -61,16 +61,16 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 6-Jan-12,0236,N62405,1,C172,2000,CRG,Green,NO,Jacksonville,Florida
 6-Jan-12,0237,ASQ4673,1,E145,4000,IAH,Green,NO,Houston,Texas
 6-Jan-12,0315,UAL319,1,A319,45,BWI,Purple,NO,Baltimore,Maryland
-6-Jan-12,0321,ASQ6053,1,E145,UNKN,ACQ,Green,NO,Brooke,Virginia
+6-Jan-12,0321,ASQ6053,1,E145,,ACQ,Green,NO,Brooke,Virginia
 6-Jan-12,0328,N9899G,1,C172,4500,TUL,Green,NO,Tulsa,Oklahoma
 6-Jan-12,0521,FDX1818,1,B752,7000,RNO,Green,NO,Reno,Nevada
 6-Jan-12,0640,AAL2493,1,B737,3200,LAX,Green,NO,Los Angeles,California
-6-Jan-12,0900,AIR1,1,UNKN,2000,ONT,green,NO,Ontario,California
+6-Jan-12,0900,AIR1,1,,2000,ONT,green,NO,Ontario,California
 6-Jan-12,2300,AWE1768,1,A319,1500,DCA,Green,*NO,Washington,District of Columbia
 6-Jan-12,2300,CHOPPER5,1,AS350,1300,LGA,Green,NO,New York,New York
-6-Jan-12,2343,SNOOPY2,1,UNKN,1300,CLT,Green,NO,Charlotte,North Carolina
+6-Jan-12,2343,SNOOPY2,1,,1300,CLT,Green,NO,Charlotte,North Carolina
 7-Jan-12,0031,ASQ4205,1,E145,11500,TEB,Green,NO,Teterboro,New Jersey
-7-Jan-12,0115,LOF3341,1,E145,UNKN,IAD,Green,NO,Washington,District of Columbia
+7-Jan-12,0115,LOF3341,1,E145,,IAD,Green,NO,Washington,District of Columbia
 7-Jan-12,0208,TRS763,1,B712,9000,ATL,Green,NO,Atlanta,Georgia
 7-Jan-12,0233,AAL516,1,B738,11000,BYP,Green,NO,Bonham,Texas
 7-Jan-12,0256,NKS195,1,A319,2900,MCO,Green,NO,Orlando,Florida
@@ -91,7 +91,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 8-Jan-12,0303,SWA181,1,B737,FL180,PYE,Green,NO,Point Reyes,California
 8-Jan-12,0320,AWI3848,1,CRJ2,4000,PHL,Green,NO,Philadelphia,Pennsylvania
 8-Jan-12,0440,LIFEFLT2,1,AS55,1200,PDT,Green,NO,Portland,Oregon
-8-Jan-12,0441,N4PH,1,UNKN,3500,MAE,Green,NO,Madera,California
+8-Jan-12,0441,N4PH,1,,3500,MAE,Green,NO,Madera,California
 8-Jan-12,0503,N22WF,1,PA31,8000,RNO,Green,NO,Reno,Nevada
 8-Jan-12,0645,ASA574,1,B737,1300,SAN,Green,NO,San Diego,California
 8-Jan-12,2326,ASQ4231,1,E145,4000,CLE,Green,NO,Cleveland,Ohio
@@ -100,21 +100,21 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 9-Jan-12,0225,ASQ5956,1,E145,FL340,CKV,Green,NO,Clarksville,Tennessee
 9-Jan-12,0240,SWA304,1,B733,9000,6CL3,Green,NO,Fillmore,California
 9-Jan-12,0411,ASQ5456,1,CRJ7,5000,MSV,Green,NO,Montcello,New York
-9-Jan-12,0414,ASTRA3,1,UNKN,1000,CRQ,Green,NO,Carlsbad,California
+9-Jan-12,0414,ASTRA3,1,,1000,CRQ,Green,NO,Carlsbad,California
 9-Jan-12,0417,EGF3744,1,CRJ1,4000,ORD,Green,NO,Chicago,Illinois
 9-Jan-12,0419,EGF3773,1,CRJ7,7000,ORD,Green,NO,Chicago,Illinois
 9-Jan-12,0455,TRS131,1,B712,6000,CLW,Green,NO,Clearwater,Florida
 9-Jan-12,0720,SKW829E,1,CRJ7,2500,BFL,Green,NO,Bakersfield,California
 9-Jan-12,0737,DAL1603,1,B752,6500,LAS,Green,NO,Las Vegas,Nevada
 9-Jan-12,0739,HAL31,1,B763,5000,OGG,Green,NO,Kahului,Hawaii
-10-Jan-12,0415,VVAD2,1,UNKN,1000,NTU,Green,NO,Virginia Beach,Virginia
+10-Jan-12,0415,VVAD2,1,,1000,NTU,Green,NO,Virginia Beach,Virginia
 10-Jan-12,0432,DAL793,1,MD83,3000,SYR,Green,NO,Syracuse,New York
 10-Jan-12,0436,EGF3479,1,E145,12000,FLL,Green,NO,Fort Lauderdale,Florida
 10-Jan-12,0526,C6605,1,UH60,500,MSY,Green,NO,New Orleans,Louisiana
 10-Jan-12,0713,SWA1709,1,B737,15500,LGB,Green,NO,Long Beach,California
 10-Jan-12,2230,JBU485,1,A320,1500,LAX,Green,NO,Los Angeles,California
 11-Jan-12,0003,AAL215,1,B763,6000,OPF,Green,NO,Miami,Florida
-11-Jan-12,0015,R26596,1,UNKN,400,GTB,Green,NO,Ft. Drum,New York
+11-Jan-12,0015,R26596,1,,400,GTB,Green,NO,Ft. Drum,New York
 11-Jan-12,0016,AWE1292,1,B734,10500,BKV,Green,NO,Brooksville,Florida
 11-Jan-12,0909,FLX421,1,C210,2000,FLL,Green,NO,Fort Lauderdale,Florida
 11-Jan-12,0911,PD1,1,B06,1500,SNA,Green,NO,Santa Ana,California
@@ -123,7 +123,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 11-Jan-12,2342,REX401,1,PA34,4000,MCN,Green,NO,Macon,Georgia
 12-Jan-12,0204,DAL1528,1,B752,3000,MSP,Green,NO,Minneapolis,Minnesota
 12-Jan-12,0330,SWA3254,1,B737,13000,RNO,Green,NO,Reno,Nevada
-12-Jan-12,0415,VVAD2,1,UNKN,1000,NTU,Green,NO,Virginia Beach,Virginia
+12-Jan-12,0415,VVAD2,1,,1000,NTU,Green,NO,Virginia Beach,Virginia
 12-Jan-12,0449,N8034Z,1,PA32,4500,VNY,Green,NO,Van Nuys,California
 12-Jan-12,0451,EPIC56,1,C130,10000,FLO,Green,NO,Florence,South Carolina
 12-Jan-12,0529,AMF4192,1,BE99,4000,FWS,Green,NO,Fort Worth,Texas
@@ -146,14 +146,14 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 14-Jan-12,0118,UAL115,1,B752,11000,ALB,Green,NO,Albany,New York
 14-Jan-12,0120,AAL2194,1,B738,11000,DFW,Green,NO,Dallas-Fort Worth,Texas
 14-Jan-12,0123,EGF2730,1,E135,11000,DFW,Green,NO,Dallas-Fort Worth,Texas
-14-Jan-12,0318,KERN3,1,UNKN,1000,BFL,Green,NO,Bakersfield,California
+14-Jan-12,0318,KERN3,1,,1000,BFL,Green,NO,Bakersfield,California
 14-Jan-12,0324,JBU675,1,A320,2700,LAX,Green,NO,Los Angeles,California
 14-Jan-12,0625,AWE984,1,A320,3000,MSP,Green,NO,Minneapolis,Minnesota
 15-Jan-12,0020,AAL1493,1,MD82,10000,DFW,Green,NO,Dallas-Fort Worth,Texas
 15-Jan-12,0226,ASA650,1,B737,5000,PHX,Green,NO,Phoenix,Arizona
 15-Jan-12,0229,AWI4097,1,CRJ2,800,LGA,Green,NO,New York,New York
 15-Jan-12,0238,DAL73,1,MD88,10000,LZU,Green,NO,Lawrenceville,Georgia
-15-Jan-12,0257,TARA6,1,UNKN,2800,LAS,Green,NO,Las Vegas,Nevada
+15-Jan-12,0257,TARA6,1,,2800,LAS,Green,NO,Las Vegas,Nevada
 15-Jan-12,0332,EGF3779,1,CRJ7,8500,MSY,Green,NO,New Orleans,Louisiana
 15-Jan-12,0355,ASQ4135,1,E145,5000,BNA,Green,NO,Nashville,Tennessee
 15-Jan-12,0457,AAL1176,1,B737,600,BWI,Green,NO,Baltimore,Maryland
@@ -177,7 +177,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 18-Jan-12,0331,SWA1777,1,B733,8000,LAS,Green,NO,Las Vegas,Nevada
 18-Jan-12,0504,ACA558,1,E190,7000,SMO,Green,NO,Santa Monica,California
 18-Jan-12,0605,AAL657,1,MD82,10000,ABQ,Green,NO,Albuquerque,New Mexico
-18-Jan-12,2010,VVAD321,1,UNKN,1000,NTU,Green,NO,Virginia Beach,Virginia
+18-Jan-12,2010,VVAD321,1,,1000,NTU,Green,NO,Virginia Beach,Virginia
 18-Jan-12,2356,CTL21,1,AC50,2100,CGF,Green,NO,Cleveland,Ohio
 19-Jan-12,0042,N213TV,1,B206,6000,ABQ,Green,NO,Albuquerque,New Mexico
 19-Jan-12,0150,DAL2055,1,B763,3000,LAX,Green,NO,Los Angeles,California
@@ -196,7 +196,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 21-Jan-12,0156,TRS1053,1,B712,5000,MCO,Green,NO,Orlando,Florida
 21-Jan-12,0236,JBU399,1,A320,9000,MCO,White,NO,Orlando,Florida
 21-Jan-12,0253,SWA2358,1,B733,4000,AUS,Green,NO,Austin,Texas
-21-Jan-12,0304,UAL934,1,UNKN,2500,LAX,Green,NO,Los Angeles,California
+21-Jan-12,0304,UAL934,1,,2500,LAX,Green,NO,Los Angeles,California
 21-Jan-12,0351,N75RR,1,C172,2000,BCT,Red and White,NO,Boca Raton,Florida
 21-Jan-12,0515,UAL584,1,B763,3000,LAX,Green,NO,Los Angeles,California
 21-Jan-12,0809,N417C,1,C525,7000,LAS,Green,NO,Las Vegas,Nevada
@@ -246,9 +246,9 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 27-Jan-12,0245,SWA56,1,B737,3000,DAL,Green,NO,Dallas,Texas
 27-Jan-12,0330,SWA1232,1,B737,17000,PXR,Green,NO,Phoenix,Arizona
 27-Jan-12,0335,N25904,1,C152,1800,CDL,Green,NO,Candle,Alaska
-27-Jan-12,0338,N977PA,1,UNKN,4300,PHX,Green,NO,Phoenix,Arizona
+27-Jan-12,0338,N977PA,1,,4300,PHX,Green,NO,Phoenix,Arizona
 27-Jan-12,0421,LBQ860,1,TBM7,2000,ZPH,Green,*NO,Zephyrhills,Florida
-27-Jan-12,0553,C6566,1,UNKN,1000,Punta Salinas,Green,NO,Punta Salinas,Puerto Rico
+27-Jan-12,0553,C6566,1,,1000,Punta Salinas,Green,NO,Punta Salinas,Puerto Rico
 28-Jan-12,0008,AAL1384,1,B752,2000,JFK,Green,NO,New York,New York
 28-Jan-12,0008,N787PE,1,PA24,3500,FL78,Green,NO,Brandon,Florida
 28-Jan-12,0020,N446ER,1,C172,4000,SAV,Green,NO,Savannah,Georgia
@@ -260,7 +260,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 28-Jan-12,0635,ASA896,1,B738,2500,SJC,Green,NO,San Jose ,California
 28-Jan-12,2344,N4881N,1,C182,3500,SEG,Green,NO,Selingsgrove,Pennsylvania
 28-Jan-12,2345,SOO9761,1,B747,12500,PSM,Green/yellow,NO,Portsmouth,New Hampshire
-29-Jan-12,0008,AAL1384,1,B752,2000,JFK,UNKN,NO,New York,New York
+29-Jan-12,0008,AAL1384,1,B752,2000,JFK,,NO,New York,New York
 29-Jan-12,0040,N426PE,1,CL60,10000,MKE,Green,NO,Milwaukee,Wisconsin
 29-Jan-12,0044,EGF2859,1,E135,5000,T31,Green,NO,Mckinney,Texas
 29-Jan-12,0129,UAL1121,1,B735,5000,CLE,Green,NO,Cleveland,Ohio
@@ -276,9 +276,9 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 29-Jan-12,0708,N8280P,1,PA34,2000,SEA,Green,NO,Seattle,Washington
 29-Jan-12,0800,N17544,1,BE36,6500,IAH,Green,NO,Houston,Texas
 29-Jan-12,1622,SWA455,1,B737,15000,PHX,Green,NO,Phoenix,Arizona
-29-Jan-12,UNKN,SWA108,1,B737,3500,WRI,Green,NO,Wrightstown,New Jersey
+29-Jan-12,,SWA108,1,B737,3500,WRI,Green,NO,Wrightstown,New Jersey
 30-Jan-12,0015,SKW5472,1,CRJ2,2000,SPI,Green,NO,Springfield,Illinois
-30-Jan-12,023,UCM474,1,UNKN,3100,MKC,Green,NO,Kansas City,Missouri
+30-Jan-12,023,UCM474,1,,3100,MKC,Green,NO,Kansas City,Missouri
 30-Jan-12,0135,AWI3860,1,CRJ2,4000,LGA,Green,NO,New York,New York
 30-Jan-12,0237,DAL686,1,MD88,7000,ATL,Green,NO,Atlanta,Georgia
 30-Jan-12,0514,N728M,1,GLF4,3900,LAS,Green,NO,Las Vegas,Nevada
@@ -295,12 +295,12 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 1-Feb-12,0030,CTL304,1,AC50,2000,MGY,Green,NO,Dayton,Ohio
 1-Feb-12,0415,N484DA,1,SR20,2200,MCO,Green,NO,Orlando,Florida
 1-Feb-12,0633,LBQ825,1,PC12,17000,DAN,Green,NO,Danville,Virginia
-1-Feb-12,UNKN,UNKN,1,UNKN,500,FD15,Green,NO,Jupiter,Florida
+1-Feb-12,,,1,,500,FD15,Green,NO,Jupiter,Florida
 2-Feb-12,0001,IDAHO27,1,C206,1800,ADS,Green,NO,Dallas,Texas
-2-Feb-12,0020,N801MZR,1,UNKN,100,BQN,Green,NO,Aguadilla,Puerto Rico
+2-Feb-12,0020,N801MZR,1,,100,BQN,Green,NO,Aguadilla,Puerto Rico
 2-Feb-12,0027,GGN7440,1,B190,3000,RIC,Green,NO,Richmond,Virginia
 2-Feb-12,0150,SKW390Y,1,CRJ7,1300,AUS,Green,NO,Austin,Texas
-2-Feb-12,0154,VRD936,1,UNKN,UNKN,SAN,Green,NO,San Diego,California
+2-Feb-12,0154,VRD936,1,,,SAN,Green,NO,San Diego,California
 2-Feb-12,0244,QXE478,1,DH8D,7000,PDX,Green,NO,Portland,Oregon
 2-Feb-12,0339,ASA345,1,B737,5500,SEA,Green,NO,Seattle,Washington
 2-Feb-12,0345,N721NA,1,EA50,3000,MKC,Orange,NO,Kansas City,Missouri
@@ -328,11 +328,11 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 4-Feb-12,0251,ASQ1536,1,E45X,3000,IAH,Green,NO,Houston,Texas
 4-Feb-12,0251,ASQ4352,1,E145,3000,IAH,Green,NO,Houston,Texas
 4-Feb-12,0310,N92062,1,H269,1000,CRP,Green,NO,Corpus Christi,Texas
-4-Feb-12,0330,CG6518,1,UNKN,1800,SSI,Green,NO,Brunswick,Georgia
+4-Feb-12,0330,CG6518,1,,1800,SSI,Green,NO,Brunswick,Georgia
 4-Feb-12,0423,SKW497Z,1,CRJ7,8000,RDM,Green,NO,Redman,Oregon
 4-Feb-12,0651,DAL1151,1,B752,8000,HNL,Green,NO,Honolulu,Hawaii
 4-Feb-12,0700,POLICE3,1,AS50,1500,SAN,Green,NO,San Francisco,California
-5-Feb-12,0005,JBU160,1,UNKN,4000,MCO,Green,NO,Orlando,Florida
+5-Feb-12,0005,JBU160,1,,4000,MCO,Green,NO,Orlando,Florida
 5-Feb-12,0012,TRS379,1,B737,9000,PIE,Green,NO,St. Petersburg-Clearwater,Florida
 5-Feb-12,0015,BAW2036,1,B772,1700,MCO,Green,NO,Orlando,Florida
 5-Feb-12,0119,UAL1123,1,B738,60,DCA,Green,*NO,Washington,District of Columbia
@@ -359,7 +359,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 8-Feb-12,0132,N104UV,1,D40,8000,SLC,Green,NO,Salt Lake City,Utah
 8-Feb-12,0154,CTL15,1,AC50,3000,CLE,Green,NO,Cleveland,Ohio
 8-Feb-12,0353,ASA457,1,B738,3500,SEA,Green,NO,Seattle,Washington
-8-Feb-12,0426,SKYFOX10,1,UNKN,2000,DVT,Green,NO,Phoenix,Arizona
+8-Feb-12,0426,SKYFOX10,1,,2000,DVT,Green,NO,Phoenix,Arizona
 8-Feb-12,0431,AAL1307,1,B738,3300,LAX,Green,NO,Los Angeles,California
 8-Feb-12,0643,ASA104,1,B739,4000,SEA,Purple,NO,Seattle,Washington
 9-Feb-12,0124,AAL428,1,MD82,5500,RDU,Green,NO,Raleigh-Durham,North Carolina
@@ -391,11 +391,11 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 13-Feb-12,0620,QXE78,1,DH8D,13000,VTU,Green,NO,Oxnard,California
 13-Feb-12,0727,ASH1007,1,CRJ2,3000,HNL,Green,NO,Honolulu,Hawaii
 14-Feb-12,0118,N4333C,1,PA28,200,VRB,White,NO,Vero Beach,Florida
-14-Feb-12,0124,OMAHA98U,1,UNKN,700,LRD,Green,NO,Laredo,Texas
+14-Feb-12,0124,OMAHA98U,1,,700,LRD,Green,NO,Laredo,Texas
 14-Feb-12,0217,TRS1209,1,B712,3000,MCO,Green,NO,Orlando,Florida
 14-Feb-12,0253,TRS1483,1,B737,3000,ORL,Green,NO,Orlando,Florida
 14-Feb-12,0350,LAPD2,1,B06,2200,POM,Green,NO,Pomona,California
-14-Feb-12,0420,CJC4929,1,UNKN,3000,LCH,Green,NO,Lake Charles,Louisiana
+14-Feb-12,0420,CJC4929,1,,3000,LCH,Green,NO,Lake Charles,Louisiana
 14-Feb-12,0435,SKW6362,1,E120,6000,VTU,Green,NO,Oxnard,California
 14-Feb-12,0539,LAPD24,1,B06,700,SMO,Green,NO,Santa Monica,California
 15-Feb-12,0010,N462ER,1,C172,2000,MCO,Green,NO,Orlando,Florida
@@ -419,7 +419,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 16-Feb-12,0423,DAL1657,1,B752,2000,FLL,Green,NO,Fort Lauderdale,Florida
 17-Feb-12,0015,NKS400,1,A320,2200,FLL,Green,NO,Fort Lauderdale,Florida
 17-Feb-12,0025,N5365P,1,C172,3000,CVG,Green,NO,Covington,Kentucky
-17-Feb-12,0059,CHQ4753,1,E145,UNKN,CLE,Green,NO,Cleveland,Ohio
+17-Feb-12,0059,CHQ4753,1,E145,,CLE,Green,NO,Cleveland,Ohio
 17-Feb-12,0110,CJC3737,1,DH8D,FL180,LNS,Green,NO,Lancaster,Pennsylvania
 17-Feb-12,0111,N772MS,1,C172,6500,DXR,Green,NO,Danbury,Connecticut
 17-Feb-12,0118,ETHYL11,1,K35R,3000,PIT,Green,NO,Pittsburgh,Pennsylvania
@@ -444,7 +444,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 19-Feb-12,0507,AAL1098,1,MD83,4000,OMA,Green,NO,Omaha,Nebraska
 19-Feb-12,0508,JTL32,1,PC12,4000,OMA,Green,NO,Omaha,Nebraska
 19-Feb-12,2150,SWA1707,1,B737,750,RNO,Green,NO,Reno,Nevada
-20-Feb-12,0136,UNKN,1,B734,2200,GTR,Green,NO,Columbus,Mississippi
+20-Feb-12,0136,,1,B734,2200,GTR,Green,NO,Columbus,Mississippi
 20-Feb-12,0301,LN761AF,1,S76,3500,RUE,Green,NO,Russellville,Arkansas
 20-Feb-12,0310,SKW4785,1,CRJ7,9000,SLC,Green,NO,Salt Lake City,Utah
 20-Feb-12,0311,N65259,1,C172,1500,PDX,Green,NO,Portland,Oregon
@@ -456,7 +456,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 21-Feb-12,0206,EGF4255,1,E145,3000,BNA,Green,NO,Nashville, Tennessee
 21-Feb-12,0211,SNC7107,1,SH36,2000,SJU,Green,NO,San Juan,Puerto Rico
 21-Feb-12,0223,MRA682,1,C208,2000,RDU,Green,NO,Raleigh-Durham,North Carolina
-21-Feb-12,0223,N2130CH,1,UNKN,2000,RDU,Green,NO,Raleigh-Durham,North Carolina
+21-Feb-12,0223,N2130CH,1,,2000,RDU,Green,NO,Raleigh-Durham,North Carolina
 21-Feb-12,0327,SWA847,1,B737,3000,MCO,Blue,NO,Orlando,Florida
 21-Feb-12,0358,ASQ6057,1,E45X,10000,ORD,Green,NO,Chicago,Illinois
 21-Feb-12,0418,SKW6458,1,CRJ2,7000,SMO,Green,NO,Santa Monica,California
@@ -500,8 +500,8 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 28-Feb-12,0153,HPJ006,1,LJ60,4000,FLL,Green,NO,Fort Lauderdale,Florida
 28-Feb-12,0508,SKW3488,1,CRJ7,4200,PDX,Green,NO,Portland,Oregon
 28-Feb-12,0530,N831FC,1,C25B,10000,SEA,Green,NO,Seattle,Washington
-28-Feb-12,0530,UNKN,1,PD8,2000,PIE,Green,NO,St. Petersburg ,Florida
-28-Feb-12,0535,UPS1487,1,B752,1500,RFD,UNKN,NO,Chicago/Rockford,Illinois
+28-Feb-12,0530,,1,PD8,2000,PIE,Green,NO,St. Petersburg ,Florida
+28-Feb-12,0535,UPS1487,1,B752,1500,RFD,,NO,Chicago/Rockford,Illinois
 28-Feb-12,0541,ASA372,1,B737,12000,MRT,Green,NO,Marysville,Ohio
 29-Feb-12,0010,AMF7110,1,E120,5000,TJPS,Green,NO,Ponce,Puerto Rico
 29-Feb-12,0232,N646SA,1,SYMP,3000,SSF,White,*NO,San Antonio,Texas
@@ -522,7 +522,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 1-Mar-12,0233,AWE316,1,B752,3200,AZ73,Green,NO,Tempe,Arizona
 1-Mar-12,0329,NKS304,1,A321,12000,2FA8,Green,NO,Sanford,Florida
 2-Mar-12,0154,AWE1947,1,B734,2500,FLL,Green,NO,Fort Lauderdale,Florida
-2-Mar-12,0235,N8059X,1,C172,UNKN,SGJ,Green,NO,Saint Augustine,Florida
+2-Mar-12,0235,N8059X,1,C172,,SGJ,Green,NO,Saint Augustine,Florida
 2-Mar-12,0254,FFT360,1,A319,3000,TPA,Green,NO,Tampa,Florida
 2-Mar-12,0254,SWA2340,1,B737,4100,PHX,Green,NO,Phoenix,Arizona
 2-Mar-12,0255,AAY799,1,MD83,3000,DAB,Red,NO,Daytona Beach,Florida
@@ -559,12 +559,12 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 4-Mar-12,0731,N531TS,1,LJ31,500,BFI,Green,NO,Seattle,Washington
 5-Mar-12,0202,DAL2003,1,D21,4000,DTW,Green,NO,Detroit,Michigan
 5-Mar-12,0211,SWA342,1,B737,12000,GMN,Green,NO,Gorman,California
-5-Mar-12,0327,AWE92,1,A320,UNKN,PDX,Green,NO,Portland,Oregon
+5-Mar-12,0327,AWE92,1,A320,,PDX,Green,NO,Portland,Oregon
 5-Mar-12,0336,AWE1698,1,B734,11000,CLT,Green,NO,Charlotte,North Carolina
 5-Mar-12,0417,N222GS,1,BE58,2500,FTW,Purple,NO,Fort Worth,Texas
 5-Mar-12,0448,UPS705,1,B752,FL320,BNA,Green,NO,Nashville,Tennessee
 5-Mar-12,0556,EJA663P,1,C56X,4500,TUS,Green,NO,Tucson,Arizona
-5-Mar-12,0751,SKW358T,1,CRJ7,UNKN,SAN,Green,NO,San Diego,California
+5-Mar-12,0751,SKW358T,1,CRJ7,,SAN,Green,NO,San Diego,California
 5-Mar-12,0755,RPA1479,1,E190,5200,LAS,Green,NO,Las Vegas,Nevada
 6-Mar-12,0042,SWA3561,1,B737,3500,ALB,Green,NO,Albany,New York
 6-Mar-12,0050,ELJ984,1,C750,13000,PHL,Green,NO,Philadelphia,Pennsylvania
@@ -574,7 +574,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 6-Mar-12,0310,SKW5327,1,CRJ7,5000,SMO,Green,NO,Santa Monica,California
 6-Mar-12,0314,DAL2229,1,B738,800,MIA,Green,NO,Miami,Florida
 6-Mar-12,0319,AAL1736,1,B752,800,MIA,Green,NO,Miami,Florida
-6-Mar-12,0327,SWA3601,1,B737,UNKN,PDX,Green,NO,Portland,Oregon
+6-Mar-12,0327,SWA3601,1,B737,,PDX,Green,NO,Portland,Oregon
 6-Mar-12,0350,CJC3877,1,SF34,17000,HAR,Green,NO,Harrisburg,Pennsylvania
 6-Mar-12,0615,UAL1115,1,B738,3000,MSY,Green,NO,New Orleans,Louisiana
 6-Mar-12,0620,SWA2055,1,B733,220,PDX,Green,NO,Portland,Oregon
@@ -638,7 +638,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 12-Mar-12,0317,CRIMSON6,1,P28A,2200,GZL,Red,NO,Stigler,Oklahoma
 12-Mar-12,0402,SWA546,1,B737,11000,RNO,Green,NO,Reno,Nevada
 12-Mar-12,0404,AAL1773,1,MD82,4000,LAS,Green,NO,Las Vegas,Nevada
-12-Mar-12,0533,AWE430,1,A320,UNKN,LAS,Green,NO,Las Vegas,Nevada
+12-Mar-12,0533,AWE430,1,A320,,LAS,Green,NO,Las Vegas,Nevada
 13-Mar-12,0019,AAL1726,1,B752,800,MIA,Green,NO,Miami,Florida
 13-Mar-12,0240,TRS1090,1,B712,5000,MCO,Green,NO,Orlando,Florida
 13-Mar-12,0242,JIA547,1,CRJ2,12000,CLT,Green,NO,Charlotte,North Carolina
@@ -688,7 +688,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 17-Mar-12,1210,UAL1225,1,B738,13000,PHX,Green,NO,Phoenix,Arizona
 18-Mar-12,0015,CPZ5785,1,E170,10000,DTW,Green,NO,Detroit,Michigan
 18-Mar-12,0053,TRS870,1,B712,12000,ATL,Green,NO,Atlanta,Georgia
-18-Mar-12,0158,UAL394,1,A320,UNKN,LGA,Green,NO,New York,New York
+18-Mar-12,0158,UAL394,1,A320,,LGA,Green,NO,New York,New York
 18-Mar-12,0206,DAL1208,1,A320,4000,CVG,Red,NO,Covington,Kentucky
 18-Mar-12,0220,SKW785,1,CRJ2,11000,COS,Green,NO,Colorado Springs,Colorado
 18-Mar-12,0335,SkW537L,1,CRJ7,9000,COS,Green,NO,Colorado Springs,Colorado
@@ -698,22 +698,22 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 18-Mar-12,0920,ASA16,1,B738,2000,MCI,Green,NO,Kansas City,Missouri
 19-Mar-12,0027,TRS1493,1,B712,6000,MCO,Green,NO,Orlando,Florida
 19-Mar-12,0036,KAP67,1,C402,5000,LNS,Green,NO,Lancaster ,Pennsylvania
-19-Mar-12,0101,AAL1873,1,B752,UNKN,MCO,Green/White,NO,Orlando,Florida
+19-Mar-12,0101,AAL1873,1,B752,,MCO,Green/White,NO,Orlando,Florida
 19-Mar-12,0115,CJC4903,1,DH8D,2000,MFE,Green,NO,McAllen,Texas
 19-Mar-12,0135,ASQ4410,1,E145,11000,IND,Green,NO,Indianapolis,Indiana
 19-Mar-12,0150,EGF4026,1,E135,11000,SBM,Green,NO,Sheboygan,Wisconsin
-19-Mar-12,0333,PDT4459,1,DH8A,UNKN,BWI,Green,NO,Baltimore,Maryland
+19-Mar-12,0333,PDT4459,1,DH8A,,BWI,Green,NO,Baltimore,Maryland
 19-Mar-12,0440,SWA335,1,B735,6000,MCC,Green,NO,Sacramento,California
 19-Mar-12,0552,WJA1291,1,B737,7000,LAS,Green,NO,Las Vegas,Nevada
 19-Mar-12,0622,UAL527,1,B752,3000,LAX,Green,NO,Los Angeles,California
 20-Mar-12,0047,N426PF,1,CL60,7000,ENW,Red,NO,Kenosha,Wisconsin
-20-Mar-12,0105,JBU1148,1,E190,UNKN,MCO,Green/White,NO,Orlando,Florida
+20-Mar-12,0105,JBU1148,1,E190,,MCO,Green/White,NO,Orlando,Florida
 20-Mar-12,0109,TCF5879,1,E170,7000,IND,Green,NO,Indianapolis,Indiana
 20-Mar-12,0122,SWA1078,1,B737,4400,BNA,Green,NO,Nashville,Tennessee
 20-Mar-12,0134,N8079Y,1,PA28,2000,PIE,Green,NO,St. Petersburg-Clearwater,Florida
-20-Mar-12,0235,ASQ4499,1,E145,UNKN,BWI,Green,NO,Baltimore,Maryland
+20-Mar-12,0235,ASQ4499,1,E145,,BWI,Green,NO,Baltimore,Maryland
 20-Mar-12,0330,SAFETY149,1,B06,4000,ELP,Green,NO,El Paso, Texas
-20-Mar-12,0426,SWA894,1,B737,UNKN,BWI,Green,NO,Baltimore,Maryland
+20-Mar-12,0426,SWA894,1,B737,,BWI,Green,NO,Baltimore,Maryland
 20-Mar-12,0505,AMF2312,1,B190,3000,SDF,Green,NO,Louisville,Kentucky
 20-Mar-12,0532,N6756X,1,BE76,2000,VRB,Green,NO,Vero Beach,Florida
 20-Mar-12,0620,FDX2642,1,A306,3000,IND,Green,NO,Indianapolis,Indiana
@@ -786,7 +786,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 28-Mar-12,0419,EGF3724,1,CRJ7,9500,LAX,Green,NO,Los Angeles,California
 28-Mar-12,0420,AAY123,1,MD83,5000,PHX,Green,NO,Phoenix,Arizona
 29-Mar-12,0056,N76056,1,C172,5500,SVH,Green,NO,Statesville,North Carolina
-29-Mar-12,0231,N9516J,1,C172,UNKN,RIC,Green,NO,Richmond,Virginia
+29-Mar-12,0231,N9516J,1,C172,,RIC,Green,NO,Richmond,Virginia
 29-Mar-12,0315,N62946,1,C172,3000,SME,Green,NO,Somerset,Kentucky
 29-Mar-12,0325,AAY807,1,MD83,2600,PIE,Green,NO,St. Petersburg-Clearwater,Florida
 29-Mar-12,0343,SWA864,1,B737,18000,LAS,Green,NO,Las Vegas,Nevada
@@ -802,7 +802,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 31-Mar-12,0151,N1SV,1,A109,2100,FDY,Green,NO,Findlay,Ohio
 31-Mar-12,0222,GGN7463,1,B190,10000,PWM,Green,NO,Portland,Maine
 31-Mar-12,0241,NKS126,1,A320,3200,MYR,Green,NO,Myrtle Beach ,South Carolina
-31-Mar-12,0246,CHQ6113,1,E145,UNKN,RIC,Green,NO,Richmond,Virginia
+31-Mar-12,0246,CHQ6113,1,E145,,RIC,Green,NO,Richmond,Virginia
 31-Mar-12,0305,RPA3428,1,E170,2500,ALB,Green,NO,Albany,New York
 31-Mar-12,0442,ASQ4165,1,E145,2000,BRO,Green,NO,Brownsville,Texas
 31-Mar-12,0451,ASA471,1,B737,7000,SEA,Green,NO,Seattle,Washington
@@ -850,7 +850,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 6-Apr-12,0131,SWA930,1,B733,6000,HOU,Green,NO,Houston,Texas
 6-Apr-12,0241,NKS126,1,A320,4000,MYR,Green,NO,Myrtle Beach ,South Carolina
 6-Apr-12,0329,CJC4974,1,SF34,2000,ACT,Green,NO,Waco,Texas
-6-Apr-12,0356,C657Z,1,H60,UNKN,TOA,Green,NO,Torrance,California
+6-Apr-12,0356,C657Z,1,H60,,TOA,Green,NO,Torrance,California
 6-Apr-12,0359,SKW5566,1,E120,2000,RDD,Green,NO,Redding,California
 6-Apr-12,0423,ASA890,1,B738,8000,SAN,Green,NO,San Diego,California
 6-Apr-12,0640,N461H,1,R22,1500,KOA,Green,NO,Kailua/Kona,Hawaii
@@ -863,14 +863,14 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 7-Apr-12,0349,SWA2810,1,B733,400,AUS,Green,NO,Austin,Texas
 7-Apr-12,1131,ASH1042,1,CRJ2,1500,HTO,Green,NO,Hilo,Hawaii
 7-Apr-12,2025,SWA2311,1,B737,10000,HOU,Green,NO,St. Petersburg,Florida
-8-Apr-12,0035,LOF3434,1,E145,FL350,HVQ,UNKN,NO,Charleston,West Virginia
+8-Apr-12,0035,LOF3434,1,E145,FL350,HVQ,,NO,Charleston,West Virginia
 8-Apr-12,0038,AWI3795,1,CRJ2,4000,CLT,Green,NO,Charlotte,North Carolina
 8-Apr-12,0104,N449TM,1,BE40,4000,PBI,White,NO,West Palm Beach,Florida
 8-Apr-12,0315,UAL447,1,B752,15000,MOD,Green,NO,Modesto,California
 8-Apr-12,0354,JBU747,1,A320,700,SJU,Green,NO,San Juan ,Puerto Rico
 8-Apr-12,0409,AAL546,1,B752,1500,MIA,Green,NO,Miami,Florida
 8-Apr-12,1123,EVAC9,1,B206,1400,PHX,Red,NO,Phoenix,Arizona
-8-Apr-12,2200,SWA1930,1,UNKN,3000,SNA,Green,NO,Santa Ana,California
+8-Apr-12,2200,SWA1930,1,,3000,SNA,Green,NO,Santa Ana,California
 9-Apr-12,0128,WJA4059,1,B737,600,TJSJ,Green,NO,Ponce,Puerto Rico
 9-Apr-12,0130,SKQ701,1,PA31,2000,BUY,Green,NO,Burlington,North Carolina
 9-Apr-12,0307,SWA799,1,B737,6000,SPG,Green,NO,St. Petersburg,Florida
@@ -938,7 +938,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 16-Apr-12,0127,N6200Q,1,C172,2800,CRG,Green,NO,Jacksonville,Florida
 16-Apr-12,0135,ASQ4396,1,E145,6500,BWI,Green,NO,Baltimore,Maryland
 16-Apr-12,0207,LOF9425,1,E145,4000,RIC,Green,NO,Richmond,Virginia
-16-Apr-12,0257,UCA828E,1,DH8C,8000,BGM,UNKN,NO,Binghamton,New York
+16-Apr-12,0257,UCA828E,1,DH8C,8000,BGM,,NO,Binghamton,New York
 16-Apr-12,0302,FLG3339,1,CRJ9,4000,PHL,Green,NO,Philadelphia,Pennsylvania
 16-Apr-12,0311,CHQ6097,1,E145,4000,LGA,Green,NO,New York,New York
 16-Apr-12,0403,UAL1273,1,B739,3000,SAT,Green,NO,San Antonio,Texas
@@ -980,7 +980,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 20-Apr-12,0444,AAL663,1,MD83,4000,ADS,Green,NO,Dallas ,Texas
 20-Apr-12,0527,OM7AM,1,AS50,3800,TUS,Green,NO,Tucson,Arizona
 20-Apr-12,0529,AWE639,1,A320,3500,ONT,Green,NO,Ontario,California
-20-Apr-12,0531,CHIP1,1,UNKN,UNKN,SMF,Green,NO,Sacramento,California
+20-Apr-12,0531,CHIP1,1,,,SMF,Green,NO,Sacramento,California
 20-Apr-12,0801,USC302,1,BE58,1600,TPA,Green,NO,Tampa,Florida
 21-Apr-12,0141,SWA1724,1,B733,6000,ANP,Green,NO,Annapolis,Maryland
 21-Apr-12,0326,TCF3479,1,E170,2500,DSM,Green,NO,Des Moines,Iowa
@@ -996,7 +996,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 22-Apr-12,0340,N4902F,1,C172,1000,HWD,Green,NO,Hayward,California
 22-Apr-12,0356,ASA828,1,B738,2000,OAK,Green,NO,Oakland,California
 22-Apr-12,0357,N4RS,1,C160,1800,ICT,Green,NO,Wichita,Kansas
-22-Apr-12,0833,AIR1,1,UNKN,3200,TUS,Green,NO,Tucson,Arizona
+22-Apr-12,0833,AIR1,1,,3200,TUS,Green,NO,Tucson,Arizona
 23-Apr-12,0426,SKW5550,1,E120,3500,E79,Green,NO,Fresno,California
 23-Apr-12,0430,PHI53,1,AS50,6300,ABQ,Green,NO,Albuquerque,New Mexico
 24-Apr-12,0054,CHQ3092,1,E145,4000,LGA,Green,NO,New York,New York
@@ -1007,7 +1007,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 24-Apr-12,0209,AAL2406,1,MD83,20,BWI,Green,NO,Baltimore,Maryland
 24-Apr-12,0256,C6560,1,HH65,2000,MOB,Green,NO,Mobile,Alabama
 24-Apr-12,0256,N413LH,1,H269,2300,FTW,Green,NO,Fort Worth,Texas
-24-Apr-12,0256,UAL299,1,A319,UNKN,OBK,Green,NO,Northbrook,Illinois
+24-Apr-12,0256,UAL299,1,A319,,OBK,Green,NO,Northbrook,Illinois
 25-Apr-12,0059,N277C,1,C525,4000,BWI,Green,NO,Baltimore,Maryland
 25-Apr-12,0145,WINGS5,1,B407,2500,TRI,Green,NO,Bristol/Johnson/Kingsport,Tennessee
 25-Apr-12,0345,TRS500,1,B712,2400,MSP,Green,NO,Minneapolis,Minnesota
@@ -1023,24 +1023,24 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 26-Apr-12,0404,SKW684Y,1,CRJ7,16500,APC,Green,NO,Napa,California
 27-Apr-12,0228,TCF5880,1,E170,11000,IND,Green,NO,Indianapolis,Indiana
 27-Apr-12,0237,UAL1214,1,B753,3500,ORD,Green,NO,Chicago,Illinois
-27-Apr-12,0330,AAL1005,1,B738,UNKN,ORD,Green,NO,Chicago,Illinois
+27-Apr-12,0330,AAL1005,1,B738,,ORD,Green,NO,Chicago,Illinois
 27-Apr-12,0401,N593ER,1,DA42,8000,PRC,Green,NO,Prescott,Arizona
 27-Apr-12,0402,METRO3,1,B06,1500,RIC,Green,NO,Richmond,Virginia
 27-Apr-12,0538,SWA1602,1,B737,15000,SNS,Green,NO,Salinas,California
 27-Apr-12,0926,METRO2,1,MD52,2300,LAS,Green,NO,Las Vegas,Nevada
 28-Apr-12,0141,UAL1725,1,B737,4000,ORD,Green,NO,Chicago,Illinois
-28-Apr-12,0418,TPA718,1,B763,UNKN,MIA,Multi-Colored,NO,Miami,Florida
-28-Apr-12,0441,AMF238,1,PA31,UNKN,FAT,Green,NO,Fresno,California
+28-Apr-12,0418,TPA718,1,B763,,MIA,Multi-Colored,NO,Miami,Florida
+28-Apr-12,0441,AMF238,1,PA31,,FAT,Green,NO,Fresno,California
 28-Apr-12,0742,N7QK,1,AS350,700,OAK,Green,NO,Oakland,California
 28-Apr-12,0751,ASA859,1,B738,8000,HNL,Green,NO,Honolulu,Hawaii
 28-Apr-12,0832,BUGGY11,1,C208,2000,HNL,Green,NO,Honolulu,Hawaii
 28-Apr-12,0932,BUGGY11,1,C205,1000,JRF,Green,NO,Kapolei,Hawaii
 29-Apr-12,0045,CNS21,1,PC12,4000,PBI,Green,NO,West Palm Beach,Florida
-29-Apr-12,0340,N9924U,1,AA5,UNKN,SCK,Green,NO,Stockton,California
+29-Apr-12,0340,N9924U,1,AA5,,SCK,Green,NO,Stockton,California
 29-Apr-12,0424,N21RX,1,R44,2500,PDX,Green,NO,Portland,Oregon
 29-Apr-12,0427,SKW758W,1,CRJ2,800,MRY,Green,NO,Monterey,California
 29-Apr-12,2355,SWA3036,1,B737,4000,PHX,Green,NO,Phoenix,Arizona
-30-Apr-12,0045,TPAPD8,1,UNKN,500,TPA,Green,NO,Tampa,Florida
+30-Apr-12,0045,TPAPD8,1,,500,TPA,Green,NO,Tampa,Florida
 30-Apr-12,0058,DAL1693,1,B737,3800,ATL,Green,NO,Atlanta,Georgia
 30-Apr-12,0117,FLG4005,1,CRJ2,2700,IND,Green,NO,Indianapolis,Indiana
 30-Apr-12,0150,AAL1736,1,B737,7000,MIA,Green,NO,Miami,Florida
@@ -1136,7 +1136,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 12-May-12,0245,N260EA,1,BE35,4700,EQA,Green,NO,El Dorado,Kansas
 12-May-12,0315,AAL20039,1,B752,4000,ORD,Green,NO,Chicago,Illinois
 12-May-12,0415,N2382V,1,PA38,2000,FAT,Green,NO,Fresno,California
-12-May-12,0420,SHERIF2,1,UNKN,800,MCO,Green,NO,Orlando,Florida
+12-May-12,0420,SHERIF2,1,,800,MCO,Green,NO,Orlando,Florida
 12-May-12,0440,N1125J,1,ASTR,3500,PDX,Green,NO,Portland,Oregon
 12-May-12,0457,SKW4733,1,CRJ2,10000,SJC,Green,NO,San Jose,California
 12-May-12,1018,FRE400,1,SH36,2000,GUM,Green,NO,Agana,Guam
@@ -1245,8 +1245,8 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 24-May-12,0214,N823JM,1,HELO,1000,PVD,Green,NO,Providence,Rhode Island
 24-May-12,0245,FDX1604,1,DC10,3500,PHL,Green,NO,Philadelphia,Pennsylvania
 24-May-12,0319,UPS741,1,A306,8000,TUL,Red,NO,Tulsa,Oklahoma
-24-May-12,0430,COUGAR21,1,AJET,UNKN,NYL,Green,NO,Yuma,Arizona
-24-May-12,0430,N429PA,1,PA28,UNKN,NYL,Green,NO,Yuma,Arizona
+24-May-12,0430,COUGAR21,1,AJET,,NYL,Green,NO,Yuma,Arizona
+24-May-12,0430,N429PA,1,PA28,,NYL,Green,NO,Yuma,Arizona
 24-May-12,0445,SWA1748,1,B737,10000,PHX,Green,NO,Phoenix,Arizona
 24-May-12,0447,N434PA,1,P28A,4500,PHX,Green,NO,Phoenix,Arizona
 24-May-12,0448,ASA642,1,B738,10000,PHX,Green,NO,Phoenix,Arizona
@@ -1274,7 +1274,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 26-May-12,0502,ASA642,1,B734,8000,PHX,Green,NO,Phoenix,Arizona
 26-May-12,0600,ASH2840,1,DH8B,5000,PHX,Green,NO,Phoenix,Arizona
 26-May-12,0652,HAL224,1,B712,5000,HNL,Green,NO,Honolulu,Hawaii
-26-May-12,2020,MEDEVAC,1,UNKN,2000,P20,Green,*NO,Parker,Arizona
+26-May-12,2020,MEDEVAC,1,,2000,P20,Green,*NO,Parker,Arizona
 27-May-12,0135,AWE1882,1,A319,9000,CLT,Green,NO,Charlotte,North Carolina
 27-May-12,0201,NKS126,1,A320,500,MYR,Green,NO,Myrtle Beach , South Carolina
 27-May-12,0227,KFS34,1,LJ35,4500,YIP,Green,NO,Detroit,Michigan
@@ -1305,7 +1305,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 29-May-12,0547,DAL1151,1,B752,1000,HNL,Green,NO,Honolulu,Hawaii
 30-May-12,0235,TCF6014,1,E170,7000,COL,Green,NO,Colts Neck,New Jersey
 30-May-12,0238,ACQ4590,1,E145,13000,CLT,Green,NO,Charlotte,North Carolina
-30-May-12,0352,N20117,1,C172,3300,24CN,UNKN,NO,Anaheim ,California
+30-May-12,0352,N20117,1,C172,3300,24CN,,NO,Anaheim ,California
 30-May-12,0411,ASQ6005,1,E145,7000,MCI,Green,NO,Kansas City,Missouri
 30-May-12,0415,CPZ5759,1,E190,7000,MCI,Green,NO,Kansas City,Missouri
 30-May-12,0419,AAL1689,1,MD83,7000,MCI,Green,NO,Kansas City,Missouri
@@ -1398,13 +1398,13 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 9-Jun-12,0117,FLG7350,1,E145,2000,BWI,Green,NO,Baltimore,Maryland
 9-Jun-12,0144,JBU694,1,E190,2700,DCA,Green,NO,Washington,District of Columbia
 9-Jun-12,0155,FLG735A,1,CRJ2,2000,BWI,Green,NO,Baltimore,Maryland
-9-Jun-12,0156,UNKN,1,C172,UNKN,AHN,Green,NO,Athens,Georgia
+9-Jun-12,0156,,1,C172,,AHN,Green,NO,Athens,Georgia
 9-Jun-12,0230,AAL2194,1,B738,10000,DFW,Green,NO,Dallas-Fort Worth,Texas
 9-Jun-12,0237,TCF5127,1,E170,10000,PIT,Green,NO,Pittsburgh,Pennsylvania
 9-Jun-12,0246,NKS457,1,A320,6000,ORD,Red,NO,Chicago,Illinois
 9-Jun-12,0336,ASQ240T,1,E145,2500,CVG,Green,NO,Covington,Kentucky
 9-Jun-12,0400,SKW4672,1,CRJ1,10000,RAP,Green,NO,Rapid City,South Dakota
-9-Jun-12,0429,CSJ915,1,C208,UNKN,CAK,Green,NO,Akron,Ohio
+9-Jun-12,0429,CSJ915,1,C208,,CAK,Green,NO,Akron,Ohio
 9-Jun-12,0730,MGE705,1,B722,7000,HNL,Green,NO,Honolulu,Hawaii
 9-Jun-12,0800,HAL516,1,B712,5000,HNL,Green,NO,Honolulu,Hawaii
 10-Jun-12,0156,SWA1668,1,B735,6000,MSY,Green,NO,New Orleans ,Louisiana
@@ -1417,7 +1417,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 11-Jun-12,0426,AAL1521,1,MD83,10000,TUS,Green,NO,Tucson,Arizona
 11-Jun-12,0512,QXE232,1,DH8D,8000,PDX,Green,NO,Portland,Oregon
 11-Jun-12,0630,ASA828,1,B737,4000,SFO,Green,NO,San Francisco,California
-11-Jun-12,0820,AIR1,1,UNKN,UNKN,OKC,UNKN,NO,Oklahoma City,Oklahoma
+11-Jun-12,0820,AIR1,1,,,OKC,,NO,Oklahoma City,Oklahoma
 12-Jun-12,0110,SIL2020,1,B190,2000,PIE,Green,NO,St. Petersburg-Clearwater,Florida
 12-Jun-12,0206,DAL1081,1,B752,FL350,SRQ,Green,NO,Sarasota,Florida
 12-Jun-12,0226,TCF5126,1,E170,14500,TNV,Green,NO,Navasota,Texas
@@ -1442,9 +1442,9 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 13-Jun-12,0455,QXE554,1,DH8D,6000,FAT,Green,NO,Fresno,California
 13-Jun-12,0557,JBU637,1,A320,6000,SJC,Green,NO,San Jose,California
 13-Jun-12,0830,N921PA,1,P28A,3500,PHX,Blue,NO,Phoenix,Arizona
-13-Jun-12,2154,DAL2104,1,MD88,UNKN,LGA,White,NO,New York,New York
+13-Jun-12,2154,DAL2104,1,MD88,,LGA,White,NO,New York,New York
 14-Jun-12,0119,MUSL07,1,UH1,13,DCA,Green,NO,Washington,District of Columbia
-14-Jun-12,0150,ASQ4429,1,E145,UNKN,GSO,Green,*NO,Greensboro,North Carolina
+14-Jun-12,0150,ASQ4429,1,E145,,GSO,Green,*NO,Greensboro,North Carolina
 14-Jun-12,0331,AAY437,1,MD83,6000,PIA,Green,NO,Peoria,Illinois
 14-Jun-12,0405,SWA1555,1,B737,600,SJC,Green,NO,San Jose,California
 14-Jun-12,0435,N545PA,1,LJ35,5000,RMG,Green,NO,Rome,Georgia
@@ -1457,7 +1457,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 21-Jun-12,0050,UAL884,1,A320,4000,TEB,green,NO,Teterboro,New Jersey
 21-Jun-12,0050,JBU214 ,1,A320,4000,TEB,green,NO,Teterboro,New Jersey
 21-Jun-12,0050,AAL878P,1,A320,4000,TEB,green,NO,Teterboro,New Jersey
-22-Jun-12,0137,TRS376,1,UNKN,9000,BWI,Green,NO,Baltimore,Maryland
+22-Jun-12,0137,TRS376,1,,9000,BWI,Green,NO,Baltimore,Maryland
 22-Jun-12,0230,UAL490,1,B752,4000,HEF,Green,NO,Manassas,Virginia
 22-Jun-12,0540,N9115Q,1,PA32,2000,MYR,Green,NO,Myrtle Beach ,South Carolina
 22-Jun-12,0821,N60616,1,C172,4000,MYR,Green,NO,Myrtle Beach ,South Carolina
@@ -1465,8 +1465,8 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 22-Jun-12,0825,ASA3511,1,B737,1700,STS,Green,NO,Santa Rosa,California
 22-Jun-12,0827,SWA806,1,B737,15000,TOI,Green,NO,Troy,Alabama
 23-Jun-12,0119,RPA3176,1,E170,FL190,PHL,Red,NO,Philadelphia,Pennsylvania
-23-Jun-12,0141,AWE1819,1,A320,4000,AGC,UNKN,NO,Pittsburgh,Pennsylvania
-23-Jun-12,0141,TRS521,1,B712,4000,AGC,UNKN,NO,Pittsburgh,Pennsylvania
+23-Jun-12,0141,AWE1819,1,A320,4000,AGC,,NO,Pittsburgh,Pennsylvania
+23-Jun-12,0141,TRS521,1,B712,4000,AGC,,NO,Pittsburgh,Pennsylvania
 23-Jun-12,0145,N144MN,1,R44,500,MYR,Green,NO,Myrtle Beach ,South Carolina
 23-Jun-12,0314,SWA2566,1,B737,3000,HOB,Green,NO,Hobbs,New Mexico
 23-Jun-12,0738,DAL2041,1,B738,1500,LAX,Green,NO,Los Angeles,California
@@ -1492,7 +1492,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 25-Jun-12,0457,FFT269,1,A319,11000,DEN,Green,NO,Denver,Colorado
 25-Jun-12,0740,N4663B,1,C172,4400,ONT,Green,NO,Ontario,California
 26-Jun-12,0115,N87HF,1,C172,2500,HFD,Green,*NO,Hartford,Connecticut
-26-Jun-12,0129,N247DW,1,P28A,UNKN,LYH,Green,NO,Lynchburg,Virginia
+26-Jun-12,0129,N247DW,1,P28A,,LYH,Green,NO,Lynchburg,Virginia
 26-Jun-12,0130,DAL874,1,A320,5000,MYR,Green,NO,Myrtle Beach ,South Carolina
 26-Jun-12,0210,ASQ952T,1,E45X,6000,CRW,Green,NO,Charleston,West Virginia
 26-Jun-12,0219,ACA346,1,E170,6000,MXE,Green,NO,Modena,Pennsylvania
@@ -1501,7 +1501,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 26-Jun-12,0303,SWA1105,1,B733,5000,PVD,Green,NO,Providence, Rhode Island
 26-Jun-12,0339,GJS3651,1,CRJ7,3000,DAY,Green,NO,Dayton,Ohio
 26-Jun-12,0427,SKW495L,1,E120,13500,FAT,Green,NO,Fresno,California
-26-Jun-12,0445,ABLE1,1,UNKN,2000,OMA,Green,NO,Omaha,Nebraska
+26-Jun-12,0445,ABLE1,1,,2000,OMA,Green,NO,Omaha,Nebraska
 26-Jun-12,0510,N415PA ,1,P28A,4500,PHX,Green,NO,Phoenix,Arizona
 26-Jun-12,0528,JBU631,1,A320,FL340,YNG,Green,NO,Youngstown/Warren,Ohio
 27-Jun-12,0125,EGF4078,1,E135,11200,GAI,Green,NO,Gaithersburg,Maryland
@@ -1519,8 +1519,8 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 27-Jun-12,0502,VRD295,1,A320,7000,LGB,Red,NO,Long Beach,California
 28-Jun-12,0154,FLG3984,1,CRJ2,2000,FWA,Green,NO,Fort Wayne,Indiana
 28-Jun-12,0154,FLG3984,1,CRJ2,2000,FWA,Green,NO,Fort Wayne,Indiana
-28-Jun-12,0158,CJC4888,1,DH8D,UNKN,EWR,Green,NO,Newark,New Jersey
-28-Jun-12,0158,CJC4888,1,DH8D,UNKN,EWR,Green,NO,Newark,New Jersey
+28-Jun-12,0158,CJC4888,1,DH8D,,EWR,Green,NO,Newark,New Jersey
+28-Jun-12,0158,CJC4888,1,DH8D,,EWR,Green,NO,Newark,New Jersey
 28-Jun-12,0320,N551MF,1,LJ55,10000,SAT,Green,NO,San Antonio,Texas
 28-Jun-12,0320,N551MF,1,LJ55,10000,SAT,Green,NO,San Antonio,Texas
 28-Jun-12,0330,SKW4746,1,CRJ2,5000,MSP,Green,NO,Minneapolis,Minnesota
@@ -1532,7 +1532,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 28-Jun-12,0504,N1323X,1,C172,4400,MYR,Green,NO,Myrtle Beach ,South Carolina
 28-Jun-12,0504,N1323X,1,C172,4400,MYR,Green,NO,Myrtle Beach ,South Carolina
 29-Jun-12,0204,FLG3984,1,CRJ2,2000,FWA,Green,NO,Ft. Wayne,Indiana
-29-Jun-12,0214,CJC4888,1,DH8D,UNKN,EWR,Green,NO,Newark,New Jersey
+29-Jun-12,0214,CJC4888,1,DH8D,,EWR,Green,NO,Newark,New Jersey
 29-Jun-12,0358,SKW4746,1,CRJ2,5000,MSP,Green,NO,Minneapolis,Minnesota
 29-Jun-12,0358,N551MF,1,LJ55,10000,SAT,Green,NO,San Antonio,Texas
 29-Jun-12,0358,ASQ4645,1,E145,5000,BDL,Green,NO,Windsor Locks,Connecticut
@@ -1592,7 +1592,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 3-Jul-12,0929,LIFGUARD36,1,AS32,4200,ELP,Green,NO,El Paso,Texas
 4-Jul-12,0138,C6560,1,H60,1500,MOB,Green,NO,Mobile,Alabama
 4-Jul-12,0143,DAL1661,1,MD90,8000,ATL,Green,NO,Atlanta,Georgia
-4-Jul-12,0148,RPA3219,1,E170,UNKN,CLT,Green,NO,charlotte,South Carolina
+4-Jul-12,0148,RPA3219,1,E170,,CLT,Green,NO,charlotte,South Carolina
 4-Jul-12,0216,ADVENTUR60,1,R44,1000,MYR,Green,NO,Myrtle Beach ,South Carolina
 4-Jul-12,0217,R20361,1,UH60,1500,GTB,Green,NO,Fort Drum,New York
 4-Jul-12,0238,ADVENTUR10,1,R44,1000,MYR,Green,NO,Myrtle Beach ,South Carolina
@@ -1648,8 +1648,8 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 8-Jul-12,0337,NKS350,1,A319,4000,MYR,Green,NO,Myrtle Beach ,South Carolina
 8-Jul-12,0338,ASQ232T,1,E135,5000,AUS,Green,NO,Austin,Texas
 8-Jul-12,0435,RPA1166,1,E190,8500,DSM,Green,NO,Des Moines,Iowa
-8-Jul-12,0449,CAREFLIGH3,1,UNKN,1700,DAL,Green,NO,Dallas,Texas
-8-Jul-12,0454,PUBLIC107,1,UNKN,1900,SAT,Green,NO,San Antonio,Texas
+8-Jul-12,0449,CAREFLIGH3,1,,1700,DAL,Green,NO,Dallas,Texas
+8-Jul-12,0454,PUBLIC107,1,,1900,SAT,Green,NO,San Antonio,Texas
 8-Jul-12,0749,UAL248,1,A320,1000,OGG,Green,NO,Kahului,Hawaii
 8-Jul-12,0801,N2150C,1,B06,3000,GEG,Green,NO,Spokane,Washington
 9-Jul-12,0123,NKS347,1,A319,4000,MYR,Green,NO,Myrtle Beach ,South Carolina
@@ -1672,7 +1672,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 10-Jul-12,0358,FLG3411,1,CRJ2,8000,CID,Green,NO,Cedar Rapids,Iowa
 10-Jul-12,0414,SWA522,1,B737,6000,HOU,Green,NO,Houston,Texas
 10-Jul-12,0444,UAL1247,1,B738,12000,MKY,Green,NO,San Marcos,Texas
-10-Jul-12,0549,SWA2523,1,B737,UNKN,TUS,Green,NO,Tucson,Arizona
+10-Jul-12,0549,SWA2523,1,B737,,TUS,Green,NO,Tucson,Arizona
 10-Jul-12,0605,SWA556,1,B738,4000,PDX,Green,NO,Portland,Oregon
 10-Jul-12,0744,SWA2875,1,B733,8500,SJC,Green,NO,San Jose,California
 11-Jul-12,0226,UAL502,1,B752,10000,SBJ,Green,NO,Readington,New Jersey
@@ -1685,7 +1685,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 11-Jul-12,0423,AIR1,1,B06,3000,TUS,Green,NO,Tucson,Arizona
 11-Jul-12,0425,CFS299,1,AT72,6000,TUL,Green,NO,Tulsa,Oklahoma
 11-Jul-12,0655,SWA265,1,B737,4500,OMA,Green,NO,Omaha,Nebraska
-12-Jul-12,0120,DAL1800,1,B737,UNKN,DCA,Green,NO,Washington,District of Columbia
+12-Jul-12,0120,DAL1800,1,B737,,DCA,Green,NO,Washington,District of Columbia
 12-Jul-12,0233,AIRLIFE4,1,B06,1600,SAT,Green,NO,San Antonio,Texas
 12-Jul-12,0238,N9305N,1,C172,3000,MCI,Green,NO,Kansas City,Missouri
 12-Jul-12,0239,N3264U,1,R44,1400,PWK,Green,NO,Chicago,Illinois
@@ -1704,7 +1704,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 13-Jul-12,0133,AWI3909,1,CRJ7,10000,CLT,Green,NO,Charlotte,North Carolina
 13-Jul-12,0136,C6507,1,HH65,300,ACY,Green,NO,Atlantic City,New Jersey
 13-Jul-12,0145,ASH2728,1,CRJ9,4500,MDT,Green,NO,Harrisburg,Pennsylvania
-13-Jul-12,0315,AWE1487,1,B733,3100,ILM,UNKN,NO,Wilmington,North Carolina
+13-Jul-12,0315,AWE1487,1,B733,3100,ILM,,NO,Wilmington,North Carolina
 13-Jul-12,0319,SWA910,1,B737,FL200,PVJ,Green,NO,Pauls Valley,Oklahoma
 13-Jul-12,0330,SKW582W,1,CRJ2,14500,DEN,Green,NO,Denver,Colorado
 13-Jul-12,0334,AWE1503,1,A321,13000,DEN,Green,NO,Denver,Colorado
@@ -1721,10 +1721,10 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 15-Jul-12,0108,JBU657,1,E190,5000,ISP,Green,*NO,Islip,New York
 15-Jul-12,0145,RPA3168,1,E170,2500,SYR,Green,NO,Syracuse, New York
 15-Jul-12,0327,JBU597,1,E190,2500,MCO,Green,NO,Orlando,Florida
-15-Jul-12,0502,UNKN,1,UNKN,UNKN,BOS,Red,NO,Boston,Massachusetts
+15-Jul-12,0502,,1,,,BOS,Red,NO,Boston,Massachusetts
 15-Jul-12,0514,UAL473,1,A320,8000,ONT,Green,NO,Ontario,California
 15-Jul-12,0610,N723SB,1,C172,2000,PDX,Green,NO,Portland,Oregon
-15-Jul-12,0800,AIR2,1,B206,3200,TUS,UNKN,NO,Tucson,Arizona
+15-Jul-12,0800,AIR2,1,B206,3200,TUS,,NO,Tucson,Arizona
 16-Jul-12,0248,ASQ4089,1,E145,FL240,SAT,Blue,NO,San Antonio,Texas
 16-Jul-12,0345,COM2971,1,CRJ7,9000,RDU,Green,NO,Raleigh-Durham,North Carolina
 16-Jul-12,0345,ASQ4156,1,E145,8500,MCI,Green,NO,Kansas City,Missouri
@@ -1754,7 +1754,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 19-Jul-12,0202,TCF9400,1,E170,5000,AQP,Blue,NO ,Appleton,Minnesota
 19-Jul-12,0345,N6017J,1,C172,6000,POM,Green,NO ,Pomona,California
 19-Jul-12,0404,VRD969,1,A320,4000,PAO,Green,NO ,Palo Alto,California
-19-Jul-12,0509,UAL351,1,UNKN,4000,PAO,Green,NO ,Palo Alto,California
+19-Jul-12,0509,UAL351,1,,4000,PAO,Green,NO ,Palo Alto,California
 19-Jul-12,0515,SWA692,1,B737,1200,SAN,Green,NO ,San Diego,California
 19-Jul-12,0528,SKW2947,1,CRJ2,8000,PHX,Green,NO ,Phoenix,Arizona
 19-Jul-12,0550,ASQ97T,1,E45X,8200,CLE,Green,NO ,Cleveland,Ohio
@@ -1765,7 +1765,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 20-Jul-12,0349,SKW340M,1,CRJ2,10000,UGN,Green,NO,Chicago/Waukegan,Illinois
 20-Jul-12,0425,ASQ6100,1,E145,6000,GRD,Green,NO,Greenwood ,South Carolina
 20-Jul-12,0610,N387CP,1,SR20,3500,NUC,Green,NO,San Clemente Island,California
-20-Jul-12,0705,AWE618,1,UNKN,6000,REI,Green,NO,Redlands,California
+20-Jul-12,0705,AWE618,1,,6000,REI,Green,NO,Redlands,California
 21-Jul-12,0115,JIA205,1,CRJ7,2000,MYR,Green,NO,Myrtle Beach ,South Carolina
 21-Jul-12,0153,NKS615,1,A319,2200,FLL,Blue,NO,Fort Lauderdale,Florida
 21-Jul-12,0234,AWE373,1,A321,FL210,GSP,Green,NO,Greer,South Carolina
@@ -1811,16 +1811,16 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 24-Jul-12,0328,DAL4248,1,A319,1700,LFT,Green,NO,Lafayette, Louisiana
 24-Jul-12,0330,FDX1376,1,B722,1800,MEM,Green,NO,Memphis,Tennessee
 24-Jul-12,0332,NKS126,1,A320,3000,MYR,Green,NO,Myrtle Beach ,South Carolina
-24-Jul-12,0539,Hanger1,1,UNKN,500,SLI,Green,NO,Los Alamitos,California
+24-Jul-12,0539,Hanger1,1,,500,SLI,Green,NO,Los Alamitos,California
 24-Jul-12,0540,DAL6,1,B752,4000,SFO,Green,NO,San Francisco,California
 24-Jul-12,0830,SWA18094,1,B737,5000,ORD,Green,NO,Chicago,Illinois
 25-Jul-12,0108,EJM50,1,FA50,FL190,TEB,Green,NO,Teterboro,New Jersey
 25-Jul-12,0133,EJA382,1,C680,7000,AVP,Green,NO,Wilkes-Barre/Scranton,Pennsylvania
 25-Jul-12,0157,CHQ6101,1,E145,8000,GSP,Green,NO,Greer,South Carolina
-25-Jul-12,0332,REDKNT67,1,TEX2,UNKN,MOB,Green,NO,Mobile,Alabama
+25-Jul-12,0332,REDKNT67,1,TEX2,,MOB,Green,NO,Mobile,Alabama
 25-Jul-12,0336,NKS350,1,A319,3000,SIE,Green,NO,Sea Isle,New Jersey
 25-Jul-12,0337,R26525,1,H60,1500,ROC,Green,NO,Rochester,New York
-25-Jul-12,0338,ASQ5933,1,E145,UNKN,GSP,Green,NO,Greer,South Carolina
+25-Jul-12,0338,ASQ5933,1,E145,,GSP,Green,NO,Greer,South Carolina
 25-Jul-12,0342,DAL988,1,B738,10000,PTW,Green,NO,Pottstown,Pennsylvania
 25-Jul-12,0450,ASQ111T,1,E45X,2500,PIA,Green,NO,Peoria,Illinois
 25-Jul-12,0452,RPA1122,1,E190,FL190,0F2,Green,NO,Bowie,Texas
@@ -1838,7 +1838,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 27-Jul-12,0132,JIA531,1,CRJ2,4000,CLT,Green,NO,Charlotte,North Carolina
 27-Jul-12,0133,N144JG,1,R44,1100,MYR,Green,NO,Myrtle Beach ,South Carolina
 27-Jul-12,0155,C6543,1,HH65,2200,ACY,Green,NO,Atlantic City,New Jersey
-27-Jul-12,0216,BA28,1,UNKN,7000,MIA,Green,NO,Miami,Florida
+27-Jul-12,0216,BA28,1,,7000,MIA,Green,NO,Miami,Florida
 27-Jul-12,0216,DAL2139,1,A320,3000,MIA,Green,NO,Miami,Florida
 27-Jul-12,0226,SWA528,1,B733,5000,HOU,Green,NO,Houston,Texas
 27-Jul-12,0230,NKS842,1,A319,3300,MYR,Green,NO,Myrtle Beach , South Carolina
@@ -1856,7 +1856,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 28-Jul-12,0237,AAL1464,1,B752,11000,OKM,Green,NO,Okmulgee,Oklahoma
 28-Jul-12,0317,UAl1578,1,B738,6000,ONT,Green,NO,Ontario,California
 28-Jul-12,0340,NKS412,1,A319,5000,MYR,Green,NO,Myrtle Beach ,South Carolina
-28-Jul-12,0540,CARE1,1,UNKN,7000,RNO,Green,NO,Reno,Nevada
+28-Jul-12,0540,CARE1,1,,7000,RNO,Green,NO,Reno,Nevada
 28-Jul-12,0636,SKW565P,1,CRJ7,FL190,SLI,Green,NO,Los Alamitos,California
 29-Jul-12,0139,NKS126,1,A320,500,MYR,Green,NO,Myrtle Beach ,South Carolina
 29-Jul-12,0145,DAL342,1,MD88,3000,BNA,Green,NO,Nashville,Tennessee
@@ -1876,7 +1876,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 31-Jul-12,0417,UAL1224,1,B753,3800,LAX,Green,NO,Los Angeles,California
 31-Jul-12,0551,DCM3061,1,GLF4,3000,MCI,Green,NO,Kansas City,Missouri
 1-Aug-12,0245,AAL1286,1,MD83,4000,RIC,Green,NO,Richmond,Virginia
-2-Aug-12,0335,N110TT,1,UNKN,2000,CMA,Red,NO,Camarillo,California
+2-Aug-12,0335,N110TT,1,,2000,CMA,Red,NO,Camarillo,California
 2-Aug-12,1040,AWE1434,1,B734,13000,IAH,Green,NO,Houston,Texas
 3-Aug-12,0135,N8148L,1,P28A,1500,HTO,Green,NO,White Plains, New York
 3-Aug-12,0250,TCF5131,1,E170,9000,DTW,Green,NO,Detroit,Michigan
@@ -1921,13 +1921,13 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 6-Aug-12,0233,SWA103,1,B737,2500,MCO,Green,NO,Orlando,Florida
 6-Aug-12,0247,EGF2785,1,E145,10000,DFW,Green,NO,Dallas-Fort Worth,Texas
 6-Aug-12,0435,IASCO1,1,BE9L,6000,RBL,Green,NO,Red Bluff,California
-6-Aug-12,0929,JBU165,1,A320,UNKN,PDX,Green,NO,Portland,Oregon
+6-Aug-12,0929,JBU165,1,A320,,PDX,Green,NO,Portland,Oregon
 7-Aug-12,0043,ADVTR20,1,R44,700,CRE,Green,NO,Grand Stand,South Carolina
 7-Aug-12,0140,PDT4311,1,DH8C,1000,CAE,Green,NO,Columbia,South Carolina
 7-Aug-12,0140,FLX752,1,C210,3000,MY97,Green,NO,Farmington,Minnesota
 7-Aug-12,0150,DAL2306,1,MD88,13000,CVG,Green,NO,Covington,Kentucky
 7-Aug-12,0155,AWI3641,1,CRJ2,4000,CLT,Green,NO,Charlotte,North Carolina
-7-Aug-12,0205,C6507,1,H60,1000,ACY,UNKN,NO,Atlantic City,New Jersey
+7-Aug-12,0205,C6507,1,H60,1000,ACY,,NO,Atlantic City,New Jersey
 7-Aug-12,0217,N97873,1,C172,3000,1G3,Green,NO,Kent ,Ohio
 7-Aug-12,0304,UPS1441,1,B752,2000,LOU,Green,NO,Louisville,Kentucky
 7-Aug-12,0325,DAL1114,1,B738,4000,BWI,Green,NO,Baltimore,Maryland
@@ -1953,7 +1953,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 8-Aug-12,0430,VRD337,1,A320,2500,LAX,Green,NO,Los Angeles,California
 8-Aug-12,0440,N734TK,1,C172,5500,CLL,Blue,NO,College Station,Texas
 8-Aug-12,0454,SWA1028,1,B733,6000,SLC,Green,NO,Salt Lake City,Utah
-8-Aug-12,0540,MERCYAIR,1,EC45,UNKN,RIV,Green,NO,Riverside,California
+8-Aug-12,0540,MERCYAIR,1,EC45,,RIV,Green,NO,Riverside,California
 8-Aug-12,0652,FIREBIRD5,1,A109,2000,DVT,Blue,NO,Phoenix,Arizona
 9-Aug-12,0102,CHQ6123,1,E145,3000,PIT,Green,NO,Pittsburgh,Pennsylvania
 9-Aug-12,0114,N224RH,1,R44,900,MYR,Green,NO,Myrtle Beach ,South Carolina
@@ -1977,11 +1977,11 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 10-Aug-12,0405,SWA128,1,B737,6000,HOU,Green,NO,Houston,Texas
 11-Aug-12,0148,N704DR,1,SR22,9000,FAY,Green,NO,Fayetteville,North Carolina
 11-Aug-12,0152,TRS51,1,B712,2500,BAL,Green,NO,Baltimore,Maryland
-11-Aug-12,0155,LF3,1,B06,1500,MOB,UNKN,NO,Mobile,Alabama
+11-Aug-12,0155,LF3,1,B06,1500,MOB,,NO,Mobile,Alabama
 11-Aug-12,0233,SWA1999,1,B737,12000,BHM,Green,NO,Birmingham,Alabama
 11-Aug-12,0506,GASSR17,1,K35E,20000,TXK,Green,NO,Texarkana,Arkansas
 11-Aug-12,0509,CADDO87,1,C172,20000,TXK,Green,NO,Texarkana,Arkansas
-11-Aug-12,0539,SWA799,1,B737,UNKN,SNA,Green,NO,Santa Ana,California
+11-Aug-12,0539,SWA799,1,B737,,SNA,Green,NO,Santa Ana,California
 12-Aug-12,0046,SWA1682,1,B737,8000,RDU,Green,NO,Raleigh-Durham,North Carolina
 12-Aug-12,0137,JBU528,1,A320,7000,MCO,Green,NO,Orlando,Florida
 12-Aug-12,0155,EGF4049,1,E145,3000,PIT,Green,NO,Pittsburgh,Pennsylvania
@@ -1991,12 +1991,12 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 12-Aug-12,0236,AWI3587,1,CRJ2,3000,ORF,Green,NO,Norfolk,Virginia
 12-Aug-12,0240,AAY9866,1,MD83,6000,LAS,Green,NO,Las Vegas,Nevada
 12-Aug-12,0250, AWI3620 ,1 , CRJ2 ,3700, ELM , Green , NO , Elmira , New York 
-12-Aug-12,0329,EGF3752,1,CRJ7,UNKN,ORD,Green,NO,Chicago,Illinois
+12-Aug-12,0329,EGF3752,1,CRJ7,,ORD,Green,NO,Chicago,Illinois
 12-Aug-12,0354,PDT4217,1,DH8A,5000,LNS,Green,NO,Lancaster,Pennsylvania
 12-Aug-12,0429,UAL271,1,A320,3800,ORD,Green,NO,Chicago,Illinois
 12-Aug-12,0600,IDAHO14,1,C172,3500,PDX,Green,NO,Portland,Oregon
 12-Aug-12,0601,OMAHA1AM,1,AS350,8000,OLS,Green,NO,Nogales,Arizona
-13-Aug-12,0122,PDT4180,1,DH8D,UNKN,CHO,Green,NO,Charlottesville,Virginia
+13-Aug-12,0122,PDT4180,1,DH8D,,CHO,Green,NO,Charlottesville,Virginia
 13-Aug-12,0215,UAL1692,1,B753,4000,ORL,Green,NO,Orlando,Florida
 13-Aug-12,0215,JBU43,1,A320,3500,ORL,Green,NO,Orlando,Florida
 13-Aug-12,0311,AWI3917,1,CRJ2,6000,MXE,Green,NO,Modena,Pennsylvania
@@ -2042,7 +2042,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 17-Aug-12,0030,UPS1139,1,B752,10000,PHL,Green,NO,Philadelphia,Pennsylvania
 17-Aug-12,0105,N448QS,1,GLF4,3000,PHL,Green,NO,Philadelphia,Pennsylvania
 17-Aug-12,0136,UCA5000,1,DH8B,4000,PTK,Green,NO,Pontiac,Michigan
-17-Aug-12,0207,N444KD,1,R44,UNKN,TUL,Green,NO,Tulsa,Oklahoma
+17-Aug-12,0207,N444KD,1,R44,,TUL,Green,NO,Tulsa,Oklahoma
 17-Aug-12,0210,AWI3795,1,CRJ2,4000,CLT,Green,NO,Charlotte,North Carolina
 17-Aug-12,0211,TRS432,1,B712,4000,CLT,Green,NO,Charlotte,North Carolina
 17-Aug-12,0240,AWI3773,1,CRJ2,FL250,ELZ,Green,NO,Wellsville,New York
@@ -2062,7 +2062,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 18-Aug-12,0333,N1502E,1,C172,3500,TDZ,Red,NO,Toledo,Ohio
 18-Aug-12,0341,UAL1041,1,B739,2500,EWR,Green,NO,Newark,New Jersey
 18-Aug-12,0342,SWA129,1,B737,10000,SFO,Green,NO,San Francisco,California
-18-Aug-12,0345,HPD74F,1,UNKN,800,HOU,Green,NO,Houston,Texas
+18-Aug-12,0345,HPD74F,1,,800,HOU,Green,NO,Houston,Texas
 18-Aug-12,0345,SWA915,1,B738,2500,PDX,Green,NO,Portland,Oregon
 18-Aug-12,0408,N89CE,1,F2TH,5400,LAS,Green,NO,Las Vegas,Nevada
 18-Aug-12,0415,N885EW,1,SR22,500,CRG,Green,NO,Jacksonville,Florida
@@ -2085,7 +2085,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 21-Aug-12,0026,SCX8800,1,B737,12000,CCC,Green,NO,Calverton,New York
 21-Aug-12,0042,ASQ5993,1,E145,10000,AML,Green,NO,Herndon,Virginia
 21-Aug-12,0115,AWI3709,1,CRJ2,3000,PHL,Green,NO,Philadelphia,Pennsylvania
-21-Aug-12,0119,UNKN,1,UNKN,3000,LGA,Green,NO,New York,New York
+21-Aug-12,0119,,1,,3000,LGA,Green,NO,New York,New York
 21-Aug-12,0120,UAL1253,1,B737,6000,EWR,Green,NO,Newark,New Jersey
 21-Aug-12,0151,JIA416,1,CRJ2,2500,CLT,Green,NO,Charlotte,North Carolina
 21-Aug-12,0151,REGAL23,1,K35R,8000,RDU,Green,NO,Raleigh-Durham,North Carolina
@@ -2124,7 +2124,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 24-Aug-12,0105,MEDFLT28,1,BE9L,3000,GSP,Green,NO,Greer,South Carolina
 24-Aug-12,0112,DAL1237,1,MD88,800,CAE,Green,NO,Columbia,South Carolina
 24-Aug-12,0142,AAY436,1,MD83,2500,PIA,Green,NO,Peoria,Illinois
-24-Aug-12,0236,ASQ4423,1,E145,2500,OK93,UNKN,NO,Sollinsville,Oklahoma
+24-Aug-12,0236,ASQ4423,1,E145,2500,OK93,,NO,Sollinsville,Oklahoma
 24-Aug-12,0242,N686AB,1,LJ31,1800,FLL,Green,NO,Fort Lauderdale,Florida
 24-Aug-12,0244,TCF5975,1,E170,3000,PIT,Green,NO,Pittsburgh,Pennsylvania
 24-Aug-12,0246,SWA2514,1,B737,7000,SAT,Green,NO,San Antonio,Texas
@@ -2150,10 +2150,10 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 26-Aug-12,0024,ASQ4543,1,E145,6000,EWR,Green,NO,Newark,New Jersey
 26-Aug-12,0100,UAL774,1,A320,2000,RIC,Green,NO,Richmond,Virginia
 26-Aug-12,0125,ASQ4294,1,E145,4000,EWR,Green,NO,Newark,New Jersey
-26-Aug-12,0213,UCA4830,1,DH8BH,6000,BGM,UNKN,NO,Binghamton,New York
-26-Aug-12,0439,SKW544A,1,CRJ2,2300,BUR,UNKN,NO,Burbank,California
+26-Aug-12,0213,UCA4830,1,DH8BH,6000,BGM,,NO,Binghamton,New York
+26-Aug-12,0439,SKW544A,1,CRJ2,2300,BUR,,NO,Burbank,California
 26-Aug-12,0441,DAL245,1,B738,3600,PHX,Green,NO,Phoenix,Arizona
-26-Aug-12,0443,LIFEGUARD,1,UNKN,1500,FAT,Green,NO,Fresno,California
+26-Aug-12,0443,LIFEGUARD,1,,1500,FAT,Green,NO,Fresno,California
 26-Aug-12,0451,LN991AL,1,LJ31,1500,FXE,Green,NO,Fort Lauderdale,Florida
 26-Aug-12,0453,SWA915,1,B737,5500,PDX,Green,NO,Portland,Oregon
 26-Aug-12,0455,N646,1,PA20,2000,ASD,Blue,NO,Slidell,Louisiana
@@ -2167,7 +2167,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 27-Aug-12,0413,RCH474,1,C17,7000,PHL,Green,NO,Philadelphia,Pennsylvania
 27-Aug-12,0415,RPA3197,1,E170,10000,GSO,Green,NO,Greensboro,North Carolina
 27-Aug-12,0856,UAL576,1,A320,2000,PDX,Green,NO,Portland,Oregon
-27-Aug-12,0900,SWA3397,1,B737,UNKN,SNA,Green,NO,Santa Ana,California
+27-Aug-12,0900,SWA3397,1,B737,,SNA,Green,NO,Santa Ana,California
 28-Aug-12,0020,RODD99,1,CEF,3000,CEF,Green,NO,Springfield/Chicopee,Massachusetts
 28-Aug-12,0153,SKW4506,1,MLI,3000,MLI,Green,NO,Moline,Illinois
 28-Aug-12,0207,G24513,1,ISP,1200,ISP,Green,NO,Islip,New York
@@ -2204,7 +2204,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 30-Aug-12,0425,FFT571,1,A319,FL190,PVU,Green,NO,Provo,Utah
 30-Aug-12,0440,SKW5468,1,CRJ2,11000,SFO,Green,NO,San Francisco,California
 30-Aug-12,0537,OMAHA84A,1,AS50,3200,TUS,Green,NO,Tucson,Arizona
-30-Aug-12,1125,WTV32,1,PA32,5800,CPR,UNKN,NO,Casper,Wyoming
+30-Aug-12,1125,WTV32,1,PA32,5800,CPR,,NO,Casper,Wyoming
 31-Aug-12,0032,CHOPR5,1,B06,1000,EWR,Green,NO,Newark,New Jersey
 31-Aug-12,0128,SkW4773,1,CRJ2,3000,TVC,Green,NO,Traverse City,Michigan
 31-Aug-12,0205,SWA56,1,B733,4000,DAL,Green,NO,Dallas,Texas
@@ -2240,7 +2240,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 2-Sep-12,0244,LN877CR,1,UH1,2000,GRB,Green,NO,Green Bay,Wisconsin
 2-Sep-12,0405,CHQ3017,1,E145,3000,DTW,Green,NO,Detroit,Michigan
 2-Sep-12,0420,N150DD,1,C150,4500,RMN,Green,NO,Stafford,Virginia
-2-Sep-12,0501,AIR1,1,UNKN,1600,LEX,Green,NO,Lexington,Kentucky
+2-Sep-12,0501,AIR1,1,,1600,LEX,Green,NO,Lexington,Kentucky
 2-Sep-12,0524,CHP43,1,C206,5000,CZQ,Green,NO,Fresno,California
 2-Sep-12,0620,SCX8610,1,B738,10000,GRR,Green,NO,Grand Rapids,Michigan
 3-Sep-12,0030,RPA3125,1,E170,6000,CLT,Green,NO,Charlotte,North Carolina
@@ -2253,9 +2253,9 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 4-Sep-12,0124,N407F,1,B206,5000,MDT,Green,NO,Harrisburg,Pennsylvania
 4-Sep-12,0242,N44JBW,1,PA32,1500,DAB,Green,NO,Daytona Beach,Florida
 4-Sep-12,0301,N52232,1,C172,1000,,Green,NO,Daytona Beach,Florida
-4-Sep-12,0324,UNKN,1,UNKN,13000,DEN,Green,NO,Denver,Colorado
+4-Sep-12,0324,,1,,13000,DEN,Green,NO,Denver,Colorado
 4-Sep-12,0328,SWA473C,1,CRJ2,3700,BFL,Green,NO,Bakersfield,California
-4-Sep-12,0351,EAGLE1,1,UNKN,6200,DEN,Green,NO,Denver,Colorado
+4-Sep-12,0351,EAGLE1,1,,6200,DEN,Green,NO,Denver,Colorado
 4-Sep-12,0420,N409AV,1,H25B,3000,BUR,Green,NO,Burbank,California
 4-Sep-12,0430,NKS971,1,A320,4000,DFW,Green,NO,Dallas-Fort Worth,Texas
 4-Sep-12,0451,SWA1907,1,B737,5000,SAN,Green,NO,San Diego,California
@@ -2264,7 +2264,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 4-Sep-12,0626,SWA792,1,B733,5000,PDX,Green,NO,Portland,Oregon
 4-Sep-12,0627,SWA1261,1,B737,10000,PDX,Green,NO,Portland,Oregon
 4-Sep-12,0741,SKW402P,1,CRJ7,2500,PDX,Green,NO,Portland,Oregon
-5-Sep-12,0058,JBU617,1,E190,2000,JFK,UNKN,NO,New York,New York
+5-Sep-12,0058,JBU617,1,E190,2000,JFK,,NO,New York,New York
 5-Sep-12,0118,MTN7460,1,C208,2000,BWI,Green,NO,Baltimore,Maryland
 5-Sep-12,0124,AWE1940,1,B734,2700,CLT,Green,NO,Charlotte,North Carolina
 5-Sep-12,0125,AWE1698,1,B734,2700,CLT,Green,NO,Charlotte,North Carolina
@@ -2276,7 +2276,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 6-Sep-12,0059,N91DP,1,LJ31,6000,APE,Green,NO,Appleton,Ohio
 6-Sep-12,0147,CHQ4743,1,E145,2000,ORD,White,NO,Chicago,Illinois
 6-Sep-12,0425,SWA304,1,B737,1800,PHX,Green,NO,Phoenix,Arizona
-6-Sep-12,0501,AIR1,1,UNKN,UNKN,RDU,Green,NO,Raleigh-Durham,North Carolina
+6-Sep-12,0501,AIR1,1,,,RDU,Green,NO,Raleigh-Durham,North Carolina
 6-Sep-12,0545,HAL398,1,B712,500,HNL,Green,NO,Honolulu,Hawaii
 6-Sep-12,0750,DAL1254,1,B752,FL200,LAX,Green,NO,Los Angeles,California
 7-Sep-12,0012,MTN7129,1,AT72,2200,TJBQ,Green,NO,Aguadilla,Puerto Rico
@@ -2288,7 +2288,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 7-Sep-12,0229,DAL1617,1,MD88,8000,ABQ,Green,NO,Albuquerque,New Mexico
 7-Sep-12,0315,CFWLM,1,PA24,4000,ROC,Green,NO,Rochester,New York
 7-Sep-12,0503,SKW5372,1,E135,2500,LAX,Green,NO,Los Angeles,California
-7-Sep-12,0551,TV5,1,UNKN,1800,BUR,Green,NO,Burbank,California
+7-Sep-12,0551,TV5,1,,1800,BUR,Green,NO,Burbank,California
 8-Sep-12,0041,DAL1176,1,MD88,6000,ATL,Green,NO,Atlanta,Georgia
 8-Sep-12,0150,N111SP,1,B06,3500,65G,Green,NO,Fowlerville,Michigan
 8-Sep-12,0230,AAL85,1,B763,FL340,CMI,Green,NO,Champaigne/Urbana,Illinois
@@ -2312,7 +2312,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 9-Sep-12,0621,N241BB,1,SR22,6000,UIN,Green,NO,Quincy,Illinois
 9-Sep-12,0730,AIRLIFE2,1,B06,1500,SKF,Green,NO,San Antonio,Texas
 9-Sep-12,0730,LIFETEAM71,1,          ,1500,SKF,Green,NO,San Antonio,Texas
-9-Sep-12,0738,REH1,1,UNKN,55,STS,Green,*NO,Santa Rosa,California
+9-Sep-12,0738,REH1,1,,55,STS,Green,*NO,Santa Rosa,California
 10-Sep-12,0251,FLG4066,1,CRJ2,4600,OKC,Green,NO,Oklahoma City,Oklahoma
 10-Sep-12,0252,DICEY39,1,TEX2,4000,OKC,Green,NO,Oklahoma City,Oklahoma
 10-Sep-12,0253,GJS648A,1,CRJ7,4000,GRR,Green,NO,Grand Rapids,Michigan
@@ -2346,7 +2346,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 12-Sep-12,0058,N491ER,1,C172,2500,DAB,Green,NO,Daytona Beach,Florida
 12-Sep-12,0058,N52731,1,C172,1500,DAB,Green,NO,Daytona Beach,Florida
 12-Sep-12,0058,N443ER,1,C172,1500,DAB,Green,NO,Daytona Beach,Florida
-12-Sep-12,0115,LANCR12,1,P3,UNKN,NIP,Green,NO,Jackson,Florida
+12-Sep-12,0115,LANCR12,1,P3,,NIP,Green,NO,Jackson,Florida
 12-Sep-12,0133,JENNA59,1,C206,3000,OH76,Green,NO,Vermilion,Ohio
 12-Sep-12,0138,SKW6231,1,CRJ7,5000,ORD,Green,NO,Chicago,Illinois
 12-Sep-12,0210,SKW4553,1,CRJ2,6000,SAT,Blue,NO,San Antonio,Texas
@@ -2376,14 +2376,14 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 13-Sep-12,0535,ASA231,1,B734,3000,PDX,Green,NO,Portland,Oregon
 13-Sep-12,0921,AWE468,1,A321,9000,CLT,Green,NO,Charlotte,North Carolina
 14-Sep-12,0107,AWE1765,1,A319,9000,JQF,Green,NO,Concord,North Carolina
-14-Sep-12,0107,UNKN,1,UNKN,11000,RUQ,Green,NO,Salisbury,North Carolina
+14-Sep-12,0107,,1,,11000,RUQ,Green,NO,Salisbury,North Carolina
 14-Sep-12,0120,ASQ5520,1,CRJ2,3000,AGS,Green,NO,Augusta,Georgia
 14-Sep-12,0127,SWA1976,1,B737,12000,MCI,Green,NO,Kansas City,Missouri
 14-Sep-12,0130,JIA222,1,CRJ7,7000,EQY,Green,NO,Monroe,North Carolina
 14-Sep-12,0150,DAL1875,1,A319,6000,CMH,Green/Purple,NO,Columbus,Ohio
 14-Sep-12,0155,ASQ5252,1,CRJ2,6000,MSY,Green,NO,New Orleans,Louisiana
 14-Sep-12,0243,ASQ5730,1,CRJ2,10000,HEF,Green,NO,Manassas,Virginia
-14-Sep-12,0305,N534MA,1,PA34,UNKN,GVL,Green,NO,Gainesville,Georgia
+14-Sep-12,0305,N534MA,1,PA34,,GVL,Green,NO,Gainesville,Georgia
 14-Sep-12,0307,N754,1,C172,8500,SLC,Green,NO,Salt Lake City,Utah
 14-Sep-12,0320,DAL1630,1,MD90,3000,SAT,Green,NO,San Antonio,Texas
 14-Sep-12,0425,SWA943,1,B737,15000,LIN,Green,NO,Linden ,California
@@ -2413,7 +2413,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 16-Sep-12,0305,DAL1048,1,MD90,2500,PHL,Green,NO,Philadelphia,Pennsylvania
 16-Sep-12,0545,UAL1426,1,B764,2100,HNL,Green,NO,Honolulu,Hawaii
 16-Sep-12,0623,SKW796L,1,E120,5000,OKB,Green,NO,Oceanside,California
-17-Sep-12,0108,KING21,1,C130,UNKN,OXC,Green,NO,Oxford,Connecticut
+17-Sep-12,0108,KING21,1,C130,,OXC,Green,NO,Oxford,Connecticut
 17-Sep-12,0134,AAL1388,1,B738,6000,MIA,Green,NO,Miami,Florida
 17-Sep-12,0141,DAL8953,1,A319,1500,SJU,Green,NO,San Juan,Puerto Rico
 17-Sep-12,0142,AMF6908,1,B190,1500,SJU,Green,NO,San Juan,Puerto Rico
@@ -2421,18 +2421,18 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 17-Sep-12,0300,N506MV,1,B350,2500,MOD,Green,*NO,Modesto,California
 17-Sep-12,0310,SKW4779,1,CRJ7,6500,SLC,Green,NO,Salt Lake City,Utah
 17-Sep-12,0310,N326RT,1,BE20,3000,SNA,Green,NO,Santa Ana,California
-17-Sep-12,0331,N1663C,1,SR22,UNKN,BFL,Green,NO,Bakersfield,California
+17-Sep-12,0331,N1663C,1,SR22,,BFL,Green,NO,Bakersfield,California
 17-Sep-12,0407,SKW4763,1,CRJ2,10500,PVU,Green,NO,Provo,Utah
 17-Sep-12,0414,STAR93,1,AS350,1250,RIV,Green,NO,Riverside,California
 17-Sep-12,0500,ASA231,1,B734,2500,PDX,Green,NO,Portland,Oregon
 17-Sep-12,0540,AWE39,1,A320,7500,LAX,Green,NO,Los Angeles,California
 17-Sep-12,0726,ASA306,1,B734,3700,PSP,Green,NO,Palm Springs,California
 18-Sep-12,0052,AWI3591,1,CRJ2,7000,PIT,Green,NO,Pittsburgh,Pennsylvania
-18-Sep-12,0120,N197LL,1,BK17,UNKN,IND,Green,NO,Indianapolis,Indiana
+18-Sep-12,0120,N197LL,1,BK17,,IND,Green,NO,Indianapolis,Indiana
 18-Sep-12,0235,AMD18,1,aMD18,5000,SLC,Green,NO,Salt Lake City,Utah
 18-Sep-12,0245,RPA3360,1,RPa3360,6000,DTW,Green,NO,Detroit,Michigan
 18-Sep-12,0336,EGF3135,1,EGF3135,3000,SMO,Green,NO,Santa Monica,California
-18-Sep-12,0417,N512DC,1,B350,8000,GVT,UNKN,NO,Greenville,Texas
+18-Sep-12,0417,N512DC,1,B350,8000,GVT,,NO,Greenville,Texas
 18-Sep-12,0516,FLX751,1,C210,2500,DSM,White,NO,Des Moines,Iowa
 18-Sep-12,0556,SWA758,1,B737,3500,LAS,Green,NO,Las Vegas,Nevada
 18-Sep-12,0558,SWA3865,1,B737,2800,LAS,Green,NO,Las Vegas,Nevada
@@ -2463,11 +2463,11 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 20-Sep-12,0503,DAL1557,1,B752,1800,SEA,Green,NO,Seattle,Washington
 21-Sep-12,0043,AIRBEAR1,1,S76,1900,AKR,Green,NO,Akron,Ohio
 21-Sep-12,0044,UAL1850,1,B753,FL370,EUF,Green,NO,Eufaula,Alabama
-21-Sep-12,0058,MEDIA4,1,UNKN,1700,MKE,Green,NO,Milwaukee,Wisconsin
+21-Sep-12,0058,MEDIA4,1,,1700,MKE,Green,NO,Milwaukee,Wisconsin
 21-Sep-12,0322,SWA3512,1,B733,5000,MCI,Green,NO,Kansas City,Missouri
 21-Sep-12,0335,RAVEN1,1,OH58,5000,RNO,Green,NO,Reno,Nevada
 21-Sep-12,1010,PDT4201,1,DH8A,8000,CLT,Green,NO,Charlotte,North Carolina
-21-Sep-12,2339,C6004,1,H60,UNKN,FLM,Green,NO,Falmouth,Kentucky
+21-Sep-12,2339,C6004,1,H60,,FLM,Green,NO,Falmouth,Kentucky
 22-Sep-12,0100,UCA802,1,DH8B,8000,MDT,Green,NO,Harrisburg,Pennsylvania
 22-Sep-12,0136,RBY803,1,B734,3500,LYH,Green,NO,Lynchburg,Virginia
 22-Sep-12,0140,N6293H,1,C152,5000,MLC,Green,NO,Mc Alester,Oklahoma
@@ -2494,7 +2494,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 25-Sep-12,0007,RPA3204,1,E170,8800,CLT,Green,NO,Charlotte, North Carolina
 25-Sep-12,0050,AAL1228,1,B737,8200,DFW,Green,NO,Dallas-Fort Worth,Texas
 25-Sep-12,0117,UCA802,1,DH8B,5000,58N,Green,NO,Palmyra,Pennsylvania
-25-Sep-12,0217,MEDUCAR1,1,UNKN,1500,CHS,Green,NO,Charleston,South Carolina
+25-Sep-12,0217,MEDUCAR1,1,,1500,CHS,Green,NO,Charleston,South Carolina
 25-Sep-12,0305,DAL2034,1,MD90,2200,MSP,Green,NO,Minneapolis,Minnesota
 25-Sep-12,0315,LNDSLD611,1,H60,4000,CRQ,Green,NO,Carlsbad,California
 25-Sep-12,0330,ASA98,1,B738,5000,SEA,Green,NO,Seattle,Washington
@@ -2510,10 +2510,10 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 26-Sep-12,0407,PRY05,1,C208,4000,DTW,Green,NO,Detroit,Michigan
 26-Sep-12,0409,ASQ4573,1,E145,3000,GSP,Green,NO,Greer,South Carolina
 26-Sep-12,0411,N44K,1,PA44,5500,ILG,Green,NO,Wilmington,Delaware
-26-Sep-12,0412,LAPD10,1,UNKN,1300,LAX,Green,NO,Los Angeles,California
+26-Sep-12,0412,LAPD10,1,,1300,LAX,Green,NO,Los Angeles,California
 26-Sep-12,0415,SWA3590,1,B737,3000,BUR,Green,NO,Burbank,California
 26-Sep-12,0423,N572AT,1,PA44,1000,LGB,Green,NO,Long Beach,California
-26-Sep-12,0448,SWA1907,1,B737,UNKN,MZB,Green,NO,San Diego,California
+26-Sep-12,0448,SWA1907,1,B737,,MZB,Green,NO,San Diego,California
 26-Sep-12,0532,ASA574,1,B737,8000,MZB,Green,NO,San Diego,California
 26-Sep-12,0623,SWA464,1,B737,8000,RNO,Green,NO,Reno,Nevada
 26-Sep-12,0711,TV04,1,TV04,1900,BUR,Green,NO,Burbank,California
@@ -2577,15 +2577,15 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 2-Oct-12,2343,JIA275,1,CRJ7,1600,DAB,Green,NO,Daytona Beach,Florida
 3-Oct-12,0155,FDX51,1,MD11,2000,TJSJ,Green,NO,San Juan,Puerto Rico
 3-Oct-12,0156,TRS513,1,B712,3000,CMH,Green,NO,Columbus,Ohio
-3-Oct-12,0205,TRIDNT08,1,P3,UNKN,JAX,Green,NO,Jacksonville,Florida
-3-Oct-12,0214,G20142,1,H60,UNKN,AHN,Green,NO,Athens,Georgia
+3-Oct-12,0205,TRIDNT08,1,P3,,JAX,Green,NO,Jacksonville,Florida
+3-Oct-12,0214,G20142,1,H60,,AHN,Green,NO,Athens,Georgia
 3-Oct-12,0221,SWA370,1,B737,5000,HOU,Green,NO,Houston,Texas
 3-Oct-12,0237,AAL1995,1,B752,FL350,SJU,Green,NO,San Juan,Puerto Rico
 3-Oct-12,0240,LN891CA,1,C500,1500,DTS,Green,NO,Destin,Florida
 3-Oct-12,0244,N138CA,1,C500,1500,DTS,Green,NO,Destin,Florida
 3-Oct-12,0314,SWA1180,1,B737,5000,HOU,Green,NO,Houston,Texas
 3-Oct-12,0349,SWA1852,1,B737,7000,IWA,Green,NO,Phoenix,Arizona
-3-Oct-12,0352,AWE549,1,UNKN,5000,IWA,Green,NO,Phoenix,Arizona
+3-Oct-12,0352,AWE549,1,,5000,IWA,Green,NO,Phoenix,Arizona
 3-Oct-12,0404,N382AM,1,EC30,2500,MOB,Green,NO,Mobile,Alabama
 3-Oct-12,0410,SURVEY2,1,COUR,5500,TUS,Green,NO,Tucson,Arizona
 3-Oct-12,0414,ABX415,1,B762,10000,PHX,Green,NO,Phoenix,Arizona
@@ -2600,7 +2600,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 4-Oct-12,0127,TRS,1,B712,9000,OTT,Green,NO,Nottingham,Maryland
 4-Oct-12,0128,KATT694,1,TEX2,2000,PNS,Green,NO,Pensacola,Florida
 4-Oct-12,0146,AWI3969,1,CRJ2,12000,SEG,Green,NO,Selingsgrove,Pennsylvania
-4-Oct-12,0154,N497TM,1,UNKN,8000,MIA,Green,NO,Miami,Florida
+4-Oct-12,0154,N497TM,1,,8000,MIA,Green,NO,Miami,Florida
 4-Oct-12,0201,EGF3126,1,E135,6000,SMO,Green,NO,Santa Monica,California
 4-Oct-12,0207,PHENOM2,1,B703,3000,MCN,Green,NO,Macon,Georgia
 4-Oct-12,0249,FLG3801,1,CRJ2,2100,ROC,Green,NO,Rochester,New York
@@ -2631,7 +2631,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 7-Oct-12,0049,N595DM,1,C525,2500,MKE,Blue,NO,Milwaukee,Wisconsin
 7-Oct-12,0116,ASH2674,1,CRJ9,2000,GSO,Green,NO,Greensboro,North Carolina
 7-Oct-12,0401,JBU91,1,A320,3200,OAK,Blue,NO,Oakland,California
-7-Oct-12,0447,N144Z,1,C550,12500,PDX,UNKN,NO,Portland,Oregon
+7-Oct-12,0447,N144Z,1,C550,12500,PDX,,NO,Portland,Oregon
 7-Oct-12,0457,N4097L,1,R44,4000,SEA,Green,NO,Seattle,Washington
 7-Oct-12,0621,AAL1783,1,B752,1500,SFO,Green,NO,San Francisco,California
 7-Oct-12,0623,CG6557,1,B06,700,SFO,Green,NO,San Francisco,California
@@ -2640,7 +2640,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 8-Oct-12,0257,VRD883,1,A320,4000,LAX,Green,NO,Los Angeles,California
 8-Oct-12,0259,DCM2053,1,C441,3500,F70,Green,NO,Murrieta/Temecula,California
 8-Oct-12,0402,ASH2810,1,CRJ9,4000,PHX,Green,NO,Phoenix,Arizona
-8-Oct-12,0516,JBU1425,1,A320,2000,SNA,UNKN,NO,Santa Ana,California
+8-Oct-12,0516,JBU1425,1,A320,2000,SNA,,NO,Santa Ana,California
 8-Oct-12,0802,JBU172,1,A320,FL350,CYS,Green,NO,Cheyenne,Wyoming
 8-Oct-12,1325,QXE544,1,DH8D,1500,SEA,Blue,NO,Seattle,Washington
 8-Oct-12,2257,RPA3298,1,E170,6000,TEB,Blue,NO,Teterboro,New Jersey
@@ -2649,7 +2649,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 9-Oct-12,0000,CHQ6097,1,E145,13000,LAN,Green,NO,Lansing,Michigan
 9-Oct-12,0128,SNC1315,1,SH33,3500,CAE,Green,NO,Columbia,South Carolina
 9-Oct-12,0204,IDAHO79,1,C206,3000,SCK,Green,NO,Stockton,California
-9-Oct-12,0221,SHOOTR149,1,T6,3500,JKA,UNKN,NO,Gulf Shores,Alabama
+9-Oct-12,0221,SHOOTR149,1,T6,3500,JKA,,NO,Gulf Shores,Alabama
 9-Oct-12,0305,SWA2515,1,B733,5000,LAX,Green,NO,Los Angeles,California
 9-Oct-12,0322,SWA1268,1,B737,7000,PHX,Green,NO,Phoenix,Arizona
 9-Oct-12,1117,FDX1748,1,DC10,8000,FFZ,Green,NO,Mesa,Arizona
@@ -2661,7 +2661,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 10-Oct-12,0230,SWA1487,1,B737,8000,SAT,Green,NO,San Antonio,Texas
 10-Oct-12,0230,SWA1617,1,B737,7000,CHD,Green,NO,Chandler,Arizona
 10-Oct-12,0240,SKW5444,1,E120,5000,RBL,Green,NO,Red Bluff,California
-10-Oct-12,0253,N787EJ,1,LJ45,UNKN,APA,Green,NO,Denver,Colorado
+10-Oct-12,0253,N787EJ,1,LJ45,,APA,Green,NO,Denver,Colorado
 10-Oct-12,0308,N89594,1,C172,2100,GEU,Green,NO,Glendale,Arizona
 10-Oct-12,0320,N6011E,1,BE76,2500,PBI,Green,NO,West Palm Beach,Florida
 10-Oct-12,0404,SWA3429,1,B737,8000,MCI,Green,NO,Kansas City,Missouri
@@ -2712,7 +2712,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 15-Oct-12,0314,AAL2458,1,B738,11000,DFW,Green,NO,Dallas-Fort Worth,Texas
 15-Oct-12,0330,AAL1604,1,MD83,2000,LIT,Green,NO,Little Rock,Arkansas
 15-Oct-12,0330,SWA335,1,B737,2000,LIT,Green,NO,Little Rock,Arkansas
-15-Oct-12,0335,SKW4851,1,CRJ2,UNKN,TUS,Green,NO,Tucson,Arizona
+15-Oct-12,0335,SKW4851,1,CRJ2,,TUS,Green,NO,Tucson,Arizona
 15-Oct-12,0338,SKW5573,1,CRJ2,11000,SFO,Green,NO,San Francisco,California
 15-Oct-12,0345,AWE504,1,A320,10000,PHX,Green,NO,Phoenix,Arizona
 15-Oct-12,0356,N75966,1,C172,3200,VNY,Green,NO,Van Nuys,California
@@ -2725,7 +2725,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 16-Oct-12,0202,GLA29D,1,B190,11000,DEN,Green,NO,Denver,Colorado
 16-Oct-12,0210,JIA583,1,CRJ2,5500,GSP,Green,NO,Greer,South Carolina
 16-Oct-12,0235,SKW892X,1,CRJ2,3500,TUS,Green,NO,Tucson,Arizona
-16-Oct-12,0245,LN391LG,1,UNKN,1200,DEN,Green,NO,Denver,Colorado
+16-Oct-12,0245,LN391LG,1,,1200,DEN,Green,NO,Denver,Colorado
 16-Oct-12,0325,N990UH,1,R44,3300,CHD,Green,*NO,Chandler,Arizona
 16-Oct-12,0328,EGF3064,1,E135,3000,LAX,Green,NO,Los Angeles,California
 16-Oct-12,0340,SWA1542,1,B737,5000,TPA,Green,NO,Tampa,Florida
@@ -2737,7 +2737,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 17-Oct-12,0156,LYM3612,1,SW4,9000,DEN,Green,NO,Denver,Colorado
 17-Oct-12,0220,OAE109,1,B762,11000,LAS,Green,NO,Las Vegas,Nevada
 17-Oct-12,0250,AMF1461,1,BE99,7000,CL53,Green,NO,Clearlake,California
-17-Oct-12,0358,SWA1725,1,B737,UNKN,TUS,Green,NO,Tucson,Arizona
+17-Oct-12,0358,SWA1725,1,B737,,TUS,Green,NO,Tucson,Arizona
 17-Oct-12,0423,JBU713,1,A320,2000,TJSJ,Green,NO,San Juan,Puerto Rico
 17-Oct-12,2359,VVLT622,1,P3,1500,NIP,Green,NO,Jacksonville,Florida
 18-Oct-12,0130,PDT4242,1,DH8C,5000,CLT,Green,NO,Charlotte,North Carolina
@@ -2773,7 +2773,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 20-Oct-12,0204,DAL1513,1,B752,12000,DTW,Green,NO,Detroit,Michigan
 20-Oct-12,0235,N77R,1,C441,1500,BUR,Green,NO,Burbank,California
 20-Oct-12,0249,SKW429V,1,CRJ7,3000,PHX,Green,NO,Phoenix,Arizona
-20-Oct-12,0325,LCO1508,1,B77L,1500,MIA,UNKN,NO,Miami,Florida
+20-Oct-12,0325,LCO1508,1,B77L,1500,MIA,,NO,Miami,Florida
 20-Oct-12,0408,SKW468L,1,CRJ7,5300,ELP,Green,NO,El Paso,Texas
 20-Oct-12,0450,N2727F,1,C172,2000,HNL,Green,NO,Honolulu,Hawaii
 20-Oct-12,0651,ASA462,1,B734,800,LAX,Green,NO,Los Angeles,California
@@ -2795,7 +2795,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 22-Oct-12,2307,ROX107,1,SH36,1500,TJSJ,Green,NO,San Juan,Puerto Rico
 23-Oct-12,0035,C2121,1,FA20,2000,NBG,Green,NO,New Orleans,Louisiana
 23-Oct-12,0043,TRS663,1,B712,3000,FLL,Green,NO,Fort Lauderdale,Florida
-23-Oct-12,0212,DAL2155,1,UNKN,700,LAX,Green,NO,Los Angeles,California
+23-Oct-12,0212,DAL2155,1,,700,LAX,Green,NO,Los Angeles,California
 23-Oct-12,0245,ASQ4211,1,E145,14000,HOU,Green,NO,Houston,Texas
 23-Oct-12,0247,N725PG,1,C172,1500,RFD,Green,NO,Chicago/Rockford,Illinois
 23-Oct-12,0310,SKYNIGHT,1,H269,500,LGB,Green,NO,Long Beach,Florida
@@ -2809,9 +2809,9 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 24-Oct-12,0105,N1419D,1,C172,2000,MCO,Green,NO,Orlando,Florida
 24-Oct-12,0149,SKW121J,1,CRJ1,11000,SLC,Green,NO,Salt Lake City,Utah
 24-Oct-12,0217,DAL946,1,MD88,4500,DTW,Green,NO,Detroit,Michigan
-24-Oct-12,0217,HELO,1,UNKN,500,SAT,Green,NO,San Antonio,Texas
-24-Oct-12,0227,JENA46,1,C208,UNKN,PWK,Green,NO,Chicago,Illinois
-24-Oct-12,0233,NJT624,1, C56X,UNKN,DAL,Green,NO,Dallas,Texas
+24-Oct-12,0217,HELO,1,,500,SAT,Green,NO,San Antonio,Texas
+24-Oct-12,0227,JENA46,1,C208,,PWK,Green,NO,Chicago,Illinois
+24-Oct-12,0233,NJT624,1, C56X,,DAL,Green,NO,Dallas,Texas
 24-Oct-12,0258,N701SP,1,C172,1800,SEE,Green,NO,San Diego/El Cajon,California
 24-Oct-12,0301,FED1230,1,DC10,12000,SLC,Green,NO,Salt Lake City,Utah
 24-Oct-12,0302,N560LH,1,R44,6200,PVU,Green,NO,Provo,Utah
@@ -2834,7 +2834,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 26-Oct-12,0059,TRS321,1,B712,5000,ATL,Green,NO,Atlanta,Georgia
 26-Oct-12,0220,AWI3795,1,CRJ2,11000,CLT,Green,NO,Charlotte,North Carolina
 26-Oct-12,0220,ASH2660,1,CRJ9,8000,CLT,Green,NO,Charlotte,North Carolina
-26-Oct-12,0222,CHQ3029,1,UNKN,9000,CLT,Green,NO,Charlotte,North Carolina
+26-Oct-12,0222,CHQ3029,1,,9000,CLT,Green,NO,Charlotte,North Carolina
 26-Oct-12,0222,RPA3346,1,E170,8,DCA,Green,NO,Washington,District of Columbia
 26-Oct-12,0302,EGF2725,1,E135,10000,ADS,Green,NO,Dallas,Texas
 26-Oct-12,0316,ASA401,1,B737,11000,PDX,Blue,NO,Portland,Oregon
@@ -2859,8 +2859,8 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 28-Oct-12,0123,SKW567A,1,CRJ2,2000,FAR,Green,NO,Fargo,North Dakota
 28-Oct-12,0227,7G827,1,T38,3000,CRP,Green,NO,Corpus Christi,Texas
 28-Oct-12,0249,N313HC,1,C650,2000,CRP,Green,NO,Corpus Christi,Texas
-28-Oct-12,0253,DAL698,1,B752,UNKN,IND,Green,NO,Indianapolis,Indiana
-28-Oct-12,0255,FLG36,1,CRJ2,UNKN,IND,Green,NO,Indianapolis,Indiana
+28-Oct-12,0253,DAL698,1,B752,,IND,Green,NO,Indianapolis,Indiana
+28-Oct-12,0255,FLG36,1,CRJ2,,IND,Green,NO,Indianapolis,Indiana
 28-Oct-12,0355,SKW5357,1,E120,7000,FAT,Green,NO,Fresno,California
 28-Oct-12,0648,N343WA,1,PA32,1500,TMB,Green,NO,Miami,Florida
 29-Oct-12,0103,HOBBY92,1,C130,2500,BTR,Green,NO,Baton Rouge,Louisiana
@@ -2870,13 +2870,13 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 29-Oct-12,0737,FSN4034,1,C560,11000,TKI,Green,NO,Dallas,Texas
 29-Oct-12,1201,NJT382,1,C680,3000,DFW,Green,NO,Dallas-Fort Worth,Texas
 30-Oct-12,0016,CTL7,1,AC50,7000,ACT,Green,NO,Waco,Texas
-30-Oct-12,0128,MEDFLT2,1,UNKN,2000,HKY,Green,NO,Hickory,North Carolina
+30-Oct-12,0128,MEDFLT2,1,,2000,HKY,Green,NO,Hickory,North Carolina
 30-Oct-12,0543,VIR211,1,A319,8000,SJC,Green,NO,San Jose,California
 30-Oct-12,2253,N95PD,1,B206,700,PNE,Green,NO,Philadelphia,Pennsylvania
 31-Oct-12,0005,AAL607,1,B738,7000,BOS,Green,NO,Boston,Massachusetts
 31-Oct-12,0045,SWA604,1,B733,7000,MSY,Green,NO,New Orleans,Louisiana
 31-Oct-12,0100,SWA918,1,B733,3000,EDC,Green,NO,Austin,Texas
-31-Oct-12,0114,LFLT74,1,UNKN,6500,BOI,Green,NO,Boise,Idaho
+31-Oct-12,0114,LFLT74,1,,6500,BOI,Green,NO,Boise,Idaho
 31-Oct-12,0125,UAL50,1,,,EWR,Green,NO,Newark,New Jersey
 31-Oct-12,0350,TV11,1,AS50,1300,VNY,Green,NO,Van Nuys,California
 31-Oct-12,0353,ASA401,1,B738,7000,PDX,Purple,NO,Portland,Oregon
@@ -2920,7 +2920,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 3-Nov-12,0520,BUG14,1,C205,1000,HNL,Green,NO,Honolulu,Hawaii
 3-Nov-12,0537,SWA1477,1,B737,3000,SJC,Green,NO,San Jose ,California
 3-Nov-12,0613,HAl195,1,B712,2500,HNL,Green,NO,Honolulu,Hawaii
-3-Nov-12,0631,N493ER,1,C172,UNKN,OMN,Green,NO,Ormond Beach,Florida
+3-Nov-12,0631,N493ER,1,C172,,OMN,Green,NO,Ormond Beach,Florida
 3-Nov-12,0642,DAL1117,1,B738,3500,LAS,Green,NO,Las Vegas,Nevada
 3-Nov-12,2350,UAL360,1,B752,15000,OCF,Green,NO,Ocala,Florida
 4-Nov-12,0014,UAL639,1,A320,5000,06C,Green,NO,Chicago/Schaumburg,Illinois
@@ -2963,7 +2963,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 7-Nov-12,0247,GLA169,1,B190,5000,TLR,Green,NO,Tulare,California
 7-Nov-12,0416,GLA169,1,B190,6000,PTV,Red,NO,Potterville,California
 7-Nov-12,0728,NKS971,1,A320,8000,IWA,Green,NO,Phoenix,Arizona
-7-Nov-12,0841,WJA1785,1,B737,27000,PAE,UNKN,NO,Everett,Washington
+7-Nov-12,0841,WJA1785,1,B737,27000,PAE,,NO,Everett,Washington
 8-Nov-12,0337,AAL2467,1,B752,10000,FTW,Green,NO,Fort Worth,Texas
 8-Nov-12,0340,AAL563,1,MD83,5000,DTO,Green,NO,Denton,Texas
 8-Nov-12,0341,SWA56,1,B737,2000,HOU,White,NO,Houston,Texas
@@ -2971,7 +2971,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 8-Nov-12,0430,RDD1983,1,C402,2500,RDD,Green,NO,Redding,California
 9-Nov-12,0030,CPZ5752,1,E170,5000,MDW,Green,NO,Chicago,Illinois
 9-Nov-12,0045,N450ER,1,C172,2000,DAB,Green,NO,Daytona Beach,Florida
-9-Nov-12,0118,GLA314,1,B190,6400,LAS,UNKN,NO,Las Vegas,Nevada
+9-Nov-12,0118,GLA314,1,B190,6400,LAS,,NO,Las Vegas,Nevada
 9-Nov-12,0140,ACA544,1,A320,4500,LAS,Green,NO,Las Vegas,Nevada
 9-Nov-12,0140,SWA948,1,B737,4500,LAS,Green,NO,Las Vegas,Nevada
 9-Nov-12,0140,SWA3070,1,B737,4500,LAS,Green,NO,Las Vegas,Nevada
@@ -2996,7 +2996,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 10-Nov-12,2356,DAL2307,1,MD88,FL180,ATL,Green,NO,Atlanta,Georgia
 11-Nov-12,0027,EGF4010,1,E145,16000,CLT,Green,NO,Charlotte,North Carolina
 11-Nov-12,0043,DAL1731,1,MD88,FL190,GAD,Green,NO,Gadsden,Alabama
-11-Nov-12,0056,EJA951P,1,C750,1500,MCO,UNKN,NO,Orlando,Florida
+11-Nov-12,0056,EJA951P,1,C750,1500,MCO,,NO,Orlando,Florida
 11-Nov-12,0128,N4915P,1,C172,2000,SCH,Green,NO,Schenectady,New York
 11-Nov-12,0200,RCH5139,1,C172,FL270,L17,Green,NO,Portersville,California
 11-Nov-12,0344,AWE683,1,A320,10000,ETX,Green,NO,East Texas,Pennsylvania
@@ -3084,7 +3084,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 17-Nov-12,0610,AAL1747,1,B738,8000,SNA,Green,NO,Santa Ana,California
 17-Nov-12,0629,SKW459Y,1,CRJ7,9000,BFD,Green,NO,Bedford,Indiana
 17-Nov-12,1112,FDX1485,1,B752,9000,TYS,Green,NO,Knoxville,Tennessee
-18-Nov-12,0001,N119SM,1,UNKN,1400,MDW,Green,NO,Chicago,Illinois
+18-Nov-12,0001,N119SM,1,,1400,MDW,Green,NO,Chicago,Illinois
 18-Nov-12,0108,MED3,1,B06,8500,COS,Green,NO,Colorado Springs,Colorado
 18-Nov-12,0109,MED5MT,1,B06,7200,COS,Green,NO,Colorado Springs,Colorado
 18-Nov-12,0109,EGF3556,1,E145,3000,MIA,Green,NO,Miami,Florida
@@ -3127,13 +3127,13 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 21-Nov-12,0233,RPA3140,1,E170,6500,MSP,Green,NO,Minneapolis,Minnesota
 21-Nov-12,0251,AWE339,1,A319,8000,PHX,Green,NO,Phoenix,Arizona
 21-Nov-12,0310,COM3759,1,CRJ2,4000,DTW,Green,NO,Detroit,Michigan
-21-Nov-12,0320,ABX921,1,B762,UNKN,T65,Green,NO,Weslaco,Texas
+21-Nov-12,0320,ABX921,1,B762,,T65,Green,NO,Weslaco,Texas
 21-Nov-12,0357,AAY877,1,MD83,2600,PIE,Green,NO,St. Petersburg-Clearwater,Florida
 21-Nov-12,0357,ASQ5303,1,CRJ7,2300,GRK,Green,NO,Fort Hood,Texas
 21-Nov-12,0400,ASQ5702,1,CRJ2,2000,CAE,Green,NO,Columbia,South Carolina
 21-Nov-12,0413,EGF2760,1,E145,5000,FSD,Green,NO,Sioux Falls,South Dakota
 21-Nov-12,0921,ABX1820,1,B762,2000,LAX,Green,NO,Los Angeles,California
-22-Nov-12,0002,N154ZP,1,UNKN,3000,DFW,Green,NO,Dallas-Fort Worth,Texas
+22-Nov-12,0002,N154ZP,1,,3000,DFW,Green,NO,Dallas-Fort Worth,Texas
 22-Nov-12,0016,N859CA,1,TBM8,5900,BDL,Green,NO,Windsor Locks,Connecticut
 22-Nov-12,0217,N146CF,1,A109,3500,ADS,Green,NO,Dallas,Texas
 22-Nov-12,0506,AAL679,1,ME82,FL340,LBB,Green,NO,Lubbock,Texas
@@ -3171,9 +3171,9 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 26-Nov-12,0214,JIA245,1,CRJ7,2000,MYR,Green,NO,Myrtle Beach ,South Carolina
 26-Nov-12,0240,ATLAS67,1,AH64,2800,L18,White,NO,Fallbrook,California
 26-Nov-12,0316,SWA3554,1,B737,6000,HOU,Green,NO,Houston,Texas
-26-Nov-12,0401,SUMMIT81,1,C130,UNKN,PUB,Green,NO,Pueblo,Colorado
+26-Nov-12,0401,SUMMIT81,1,C130,,PUB,Green,NO,Pueblo,Colorado
 26-Nov-12,0817,DAL1646,1,B763,6000,PHX,Green,NO,Phoenix,Arizona
-26-Nov-12,0930,MAUI2,1,AS350,UNKN,HNL,Green,NO,Honolulu,Hawaii
+26-Nov-12,0930,MAUI2,1,AS350,,HNL,Green,NO,Honolulu,Hawaii
 26-Nov-12,1247,EGF2762,1,E145,5000,AMA,Green,NO,Amarillo,Texas
 26-Nov-12,2335,EGF2807,1,E135,18000,8A0,Green,NO,Albertville,Alabama
 27-Nov-12,0039,ASQ4505,1,E45X,2000,MFE,Green,NO,McAllen,Texas
@@ -3209,7 +3209,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 30-Nov-12,0359,EGF2753,1,E145,4000,LFT,Green,NO,Lafayette,Louisiana
 30-Nov-12,0610,FDX1240,1,A306,3000,MEM,White,NO,Memphis,Tennessee
 1-Dec-12,0000,DAL1707,1,B738,11000,RDU,Green,NO,Raleigh-Durham,North Carolina
-1-Dec-12,0004,SWA2661,1,B737,UNKN,MCO,Green,NO,Orlando,Florida
+1-Dec-12,0004,SWA2661,1,B737,,MCO,Green,NO,Orlando,Florida
 1-Dec-12,0029,N1966F,1,C172,3000,HOU,Purple/White,NO,Houston,Texas
 1-Dec-12,0150,SWA3027,1,B737,6000,OMA,Green,NO,Omaha,Nebraska
 1-Dec-12,0218,EGF2848,1,E135,12500,LCH,Green,NO,Lake Charles,Louisiana
@@ -3232,8 +3232,8 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 3-Dec-12,0044,EGF4044,1,E135,7000,ORD,Green,NO,Chicago,Illinois
 3-Dec-12,0224,SWA8701,1,B737,2000,DAL,Green,NO,Dallas,Texas
 3-Dec-12,0317,N7101J,1,R22,1000,STS,Green,NO,Santa Rosa,California
-3-Dec-12,0321,N517ST,1,H25B,UNKN,SPA,Green,NO,Spartanburg,South Carolina
-3-Dec-12,0323,COBALT76,1,PC12,UNKN,SPA,Green,NO,Spartanburg,South Carolina
+3-Dec-12,0321,N517ST,1,H25B,,SPA,Green,NO,Spartanburg,South Carolina
+3-Dec-12,0323,COBALT76,1,PC12,,SPA,Green,NO,Spartanburg,South Carolina
 3-Dec-12,0352,N803CM,1,C172,1500,S37,Green,NO,Smoketown,Pennsylvania
 3-Dec-12,0354,SKW4746,1,CRJ9,3000,BNA,Green,NO,Nashville,Tennessee
 3-Dec-12,0356,AAL113,1,MD82,11000,DAL,Green,NO,Dallas,Texas
@@ -3246,7 +3246,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 4-Dec-12,0241,VV5G316,1,BE20,7000,EBG,Green,NO,Edinburg,Texas
 4-Dec-12,0242,LIFELINE11,1,B206,1800,SBN,Green,NO,South Bend,Indiana
 4-Dec-12,0245,EGF2759,1,E145,1600,DFW,Green,NO,Dallas-Fort Worth,Texas
-4-Dec-12,0450,DPS107,1,UNKN,1300,SAT,Green,NO,San Antonio,Texas
+4-Dec-12,0450,DPS107,1,,1300,SAT,Green,NO,San Antonio,Texas
 4-Dec-12,0537,WSTVIA52,1,PA32,2000,FUL,Green,NO,Fullerton,California
 4-Dec-12,0543,ASQ3263,1,E135,1600,LCH,Green,NO,Lake Charles,Louisiana
 4-Dec-12,0651,N472ER,1,C172,1600,DAB,Green,NO,Daytona Beach,Florida
@@ -3264,7 +3264,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 5-Dec-12,0207,N421DS,1,C421,6500,EBG,Green,NO,Edinburg,Texas
 5-Dec-12,0247,TRS646,1,B712,800,BWI,Green,NO,Baltimore,Maryland
 5-Dec-12,0329,AAL2471,1,B752,15000,ONT,Green,NO,Ontario,California
-5-Dec-12,0605,AAL1747,1,UNKN,FL240,PSP,Green,NO,Palm Springs,California
+5-Dec-12,0605,AAL1747,1,,FL240,PSP,Green,NO,Palm Springs,California
 5-Dec-12,2318,AWI3776,1,CRJ2,5000,HPN,Green,NO,White Plains,New York
 6-Dec-12,0000,SKW4553,1,CRJ2,2500,MEM,Green,NO,Memphis,Tennessee
 6-Dec-12,0037,RICAN12,1,C130,5000,TJSJ,Green,NO,San Juan,Puerto Rico
@@ -3305,14 +3305,14 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 12-Dec-12,0021,NKS142,1,A319,6000,FLL,Green,NO,Fort Lauderdale,Florida
 12-Dec-12,0022,EJM498,1,C56X,2000,OPF,Green,NO,Opa Locka,Florida
 12-Dec-12,0241,SKW2960,1,CRJ3,8000,TUS,Green,NO,Tucson,Arizona
-12-Dec-12,0317,CHQ4765,1,E145,11000,MZZ,UNKN,NO,Marion,Indiana
+12-Dec-12,0317,CHQ4765,1,E145,11000,MZZ,,NO,Marion,Indiana
 12-Dec-12,0342,SKW6281,1,CRJ2,3500,SNA,Green,NO,Santa Ana,California
 12-Dec-12,0400,JBU486,1,A320,7000,BOS,Red,NO,Boston,Massachusetts
 12-Dec-12,0426,TV11,1,R22,1500,BUR,Green,NO,Burbank,California
 12-Dec-12,0801,SWA803,1,B737,2300,BUR,Green,NO,Burbank,California
 12-Dec-12,1505,ASA817,1,B738,8000,PDX,Green,NO,Portland,Oregon
 12-Dec-12,2356,SKW4838,1,CRJ2,8000,MSP,Green,NO,Minneapolis,Minnesota
-13-Dec-12,0005,ASA22,1,B738,7000,3CK,UNKN,NO,Chicago/Lake of the Hills,Illinois
+13-Dec-12,0005,ASA22,1,B738,7000,3CK,,NO,Chicago/Lake of the Hills,Illinois
 13-Dec-12,0017,N4668V,1,C172,3500,ACT,Green,NO,Waco,Texas
 13-Dec-12,0024,TORO12,1,T38,2500,AFW,Green,NO,Fort Worth,Texas
 13-Dec-12,0040,N8135A,1,SR22,9000,HMV,Red,NO,Holston Mountain,Tennessee
@@ -3332,7 +3332,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 14-Dec-12,0639,FDX1220,1,MD11,3000,MEM,Green,NO,Memphis,Tennessee
 14-Dec-12,2252,ASQ4180,1,E145,3000,MHT,Green,NO,Manchester,New Hampshire
 14-Dec-12,2324,KAP4,1,C402,800,TJSJ,Green,NO,San Juan,Puerto Rico
-15-Dec-12,0005,ASQ4920,1,CRJ7,2500,DTW,UNKN,NO,Detroit,Michigan
+15-Dec-12,0005,ASQ4920,1,CRJ7,2500,DTW,,NO,Detroit,Michigan
 15-Dec-12,0100,N443SH,1,R44,2500,PBI,Green,NO,West Palm Beach,Florida
 15-Dec-12,0100,N154ZP,1,Blimp,900,MIA,Green,NO,Miami,Florida
 15-Dec-12,0115,FLG3713,1,CRJ2,3000,ABE,Green,NO,Allentown,Pennsylvania
@@ -3344,7 +3344,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 15-Dec-12,2355,AWE301,1,A321,7000,CLT,Green,NO,Charlotte,North Carolina
 16-Dec-12,0030,ASQ4140,1,E145,9000,IAH,Green,NO,Houston,Texas
 16-Dec-12,0044,N712DS,1,C172,6500,ICT,Green,NO,Wichita,Kansas
-16-Dec-12,0143,TRS86,1,B712,UNKN,DAY,Green,NO,Dayton,Ohio
+16-Dec-12,0143,TRS86,1,B712,,DAY,Green,NO,Dayton,Ohio
 16-Dec-12,0153,UAL504,1,A320,4000,IAH,Green,NO,Houston,Texas
 16-Dec-12,0156,ASA647,1,B734,7000,PHX,Green,NO,Phoenix,Arizona
 16-Dec-12,0254,SKW6446,1,E120,3000,LAX,Green,NO,Los Angeles,California
@@ -3358,7 +3358,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 16-Dec-12,2348,DAL1703,1,B752,8500,ATL,Green,NO,Atlanta,Georgia
 17-Dec-12,0336,AMF1989,1,B190,2500,SAT,Green,NO,San Antonio,Texas
 17-Dec-12,0339,AAL2219,1,MD82,2500,SAT,Green,NO,San Antonio,Texas
-17-Dec-12,0345,AIRR1,1,B06,UNKN,TUS,Green,NO,Tucson,Arizona
+17-Dec-12,0345,AIRR1,1,B06,,TUS,Green,NO,Tucson,Arizona
 17-Dec-12,0349,EGF3610,1,CRJ7,5000,LAX,Green,NO,Los Angeles,California
 18-Dec-12,0041,EGF4388,1,AT72,2900,TJSJ,Green,NO,San Juan,Puerto Rico
 18-Dec-12,0047,N816X,1,H25B,7000,TJSJ,Green,NO,San Juan,Puerto Rico
@@ -3389,7 +3389,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 20-Dec-12,0212,EJA602,1,C56X,4000,ATL,Green,NO,Atlanta,Georgia
 20-Dec-12,0225,ASA485,1,B737,13000,OLM,Green,NO,Olympia,Washington
 20-Dec-12,0241,ASA370,1,B734,10000,SEA,Green,NO,Seattle,Washington
-20-Dec-12,0400,LOF9501,1,E145,2300,SGF,UNKN,NO,Springfield,Missouri
+20-Dec-12,0400,LOF9501,1,E145,2300,SGF,,NO,Springfield,Missouri
 20-Dec-12,0427,UAL1059,1,B738,5000,TUL,Green,NO,Tulsa,Oklahoma
 20-Dec-12,0536,SWA4965,1,B737,3000,BNA,Green,NO,Nashville,Tennessee
 20-Dec-12,0537,DAL1709,1,MD88,3000,BNA,Green/White,NO,Nashville,Tennessee
@@ -3397,13 +3397,13 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 20-Dec-12,2318,AWE3780,1,CRJ2,2000,PHL,Green,NO,Philadelphia,Pennsylvania
 21-Dec-12,0052,SKW5236,1,CRJ2,3500,IAH,Green,NO,Houston,Texas
 21-Dec-12,0216,EJA623,1,C56X,7000,HOU,Green/Red,NO,Houston,Texas
-21-Dec-12,0217,SWA682,1,B737,UNKN,TUL,Green,NO,Tulsa,Oklahoma
+21-Dec-12,0217,SWA682,1,B737,,TUL,Green,NO,Tulsa,Oklahoma
 21-Dec-12,0221,SWA4550,1,B737,2600,BHM,Green,NO,Birmingham,Alabama
 21-Dec-12,0310,AIR1,1,H500,1500,POM,Green,NO,Pomona,California
 21-Dec-12,0326,AWE32,1,A321,2200,LAX,Green,NO,Los Angeles,California
 21-Dec-12,0336,AAL1233,1,MD83,8000,TKI,Green,NO,Dallas,Texas
 21-Dec-12,0454,MRA688,1,C208,1200,CAE,Green,NO,Columbia,South Carolina
-21-Dec-12,0610,UNKN,1,UNKN,UNKN,ONT,Green,NO,Ontario,California
+21-Dec-12,0610,,1,,,ONT,Green,NO,Ontario,California
 21-Dec-12,0620,SWA1340,1,B737,3000,MKE,Green,NO,Milwaukee,Wisconsin
 21-Dec-12,1123,CPT205,1,B190,8000,HNL,Green,NO,Honolulu,Hawaii
 22-Dec-12,0149,KAP345,1,C402,1300,SJU,Green,NO,San Juan,Puerto Rico
@@ -3468,7 +3468,7 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 29-Dec-12,0237,ASH2767,1,CRJ9,11000,SAT,Green,NO,San Antonio,Texas
 29-Dec-12,0309,SKW5179,1,CRJ7,11000,TNV,Green,NO,Navasota,Texas
 29-Dec-12,0340,JBU584,1,E190,2000,5CT8,Blue,NO,Stamford,Connecticut
-29-Dec-12,0423,EGF3777,1,CRJ7,UNKN,SAT,Green,NO,San Antonio,Texas
+29-Dec-12,0423,EGF3777,1,CRJ7,,SAT,Green,NO,San Antonio,Texas
 30-Dec-12,0307,ASQ3815,1,E145,6000,AML,Green,NO,Herndon,Virginia
 30-Dec-12,0327,TRS607,1,B712,2500,PBI,Green,NO,West Palm Beach,Florida
 30-Dec-12,0340,QXE496,1,DH8D,FL200,UBG,Green,NO,Newberg,Oregon
@@ -3479,6 +3479,6 @@ DATE,TIME (UTC),Aircraft ID,No. A/C,TYPE A/C,ALT,MAJOR CITY,COLOR,Injury Reporte
 31-Dec-12,0131,UAL1727,1,B738,6000,PIE,Green,NO,St. Petersburg-Clearwater,Florida
 31-Dec-12,0238,SKW5528,1,CRJ2,1500,SFO,Green,NO,San Francisco,California
 31-Dec-12,0245,N471DA,1,SR22,3000,LAL,Green,NO,Lakeland,Florida
-31-Dec-12,0407,QXE218,1,UNKN,1500,SEA,Green,NO,Seattle,Washington
+31-Dec-12,0407,QXE218,1,,1500,SEA,Green,NO,Seattle,Washington
 31-Dec-12,0410,ASH2839,1,CRJ9,7000,PHX,Green,NO,Phoenix,Arizona
 ,,2012 Total,3482,,,,,,,

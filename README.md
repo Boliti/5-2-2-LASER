@@ -20,6 +20,12 @@
 3. CREATE TABLE IF NOT EXISTS accidents(...); - Это команда для создания таблицы "accidents" в базе данных "accident_reporting". Если таблица уже существует, то команда не выполняется.
 4. LOAD DATA INFILE - Это команда для загрузки данных из файла в таблицу. Она позволяет импортировать данные из текстового файла в таблицу базы данных.
 
+![image](https://github.com/Boliti/5-2-2-LASER/assets/146072846/848ffad1-f6a4-4333-ba2c-2a5d48b354fa)
+
+![image](https://github.com/Boliti/5-2-2-LASER/assets/146072846/07519650-840a-4aa7-9aaf-e033811e91c5)
+
+![image](https://github.com/Boliti/5-2-2-LASER/assets/146072846/20b68962-2324-4972-bb09-0e91b076f0ce)
+
 ### Участники коллективного проекта
 * [Ялов Никита Дмитриевич](https://github.com/Boliti)
     - [x] Создание базы данных

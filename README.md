@@ -93,6 +93,11 @@
 ![image](https://github.com/Boliti/5-2-2-LASER/assets/146436355/768071ad-df8d-4d32-9e1c-1eaa6f597bdc)
 ![image](https://github.com/Boliti/5-2-2-LASER/assets/146436355/d50924da-a197-458b-81d1-e56ccfec9523)
 
+Была записана информацию о каждой колонке, чтобы иметь представление о том, какие данные включает бд.
+>
+![image](https://github.com/Boliti/5-2-2-LASER/assets/146072846/b016e9f4-d9b8-483c-b71c-e6d6d757d99b)
+
+
 ### Развернуть базу данных на web-сервере db4free.net
 Этапы выполнения «Разверстка на WEB-сервере db4free.net»
 >

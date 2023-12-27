@@ -93,7 +93,7 @@
 ![image](https://github.com/Boliti/5-2-2-LASER/assets/146436355/768071ad-df8d-4d32-9e1c-1eaa6f597bdc)
 ![image](https://github.com/Boliti/5-2-2-LASER/assets/146436355/d50924da-a197-458b-81d1-e56ccfec9523)
 
-###Развернуть базу данных на web-сервере db4free.net
+### Развернуть базу данных на web-сервере db4free.net
 Этапы выполнения «Разверстка на WEB-сервере db4free.net»
 >
 1.Проходим регистрацию на сайте db4free.net

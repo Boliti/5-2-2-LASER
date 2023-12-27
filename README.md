@@ -46,7 +46,7 @@
 >
 
 ### Визуализация данных в Python
->Для визуализации данных мы будем использовать IDLE, различные библиотеки и сам файл laser_incidents.csv
+>Для визуализации данных мы будем использовать Jupyter, различные библиотеки и сам файл laser_incidents.csv
 Импорируем библиотеки, которые позволят визуализировать данные. Коротко об каждой из них:
 >
 
@@ -56,11 +56,16 @@
 4. seaborn - библиотека для создания статистических графиков на Python. Она построена на основе matplotlib и тесно интегрируется со структурами данных pandas;
 5. plotly.express - библиотека для визуализации данных.
 >
-![image](https://github.com/Boliti/5-2-2-LASER/assets/146436355/b62b7037-d37d-4c7c-b004-d1c7c1c77015)
+![image](https://github.com/Boliti/5-2-2-LASER/assets/146436355/13255104-98e4-44ff-a7ec-06ba2df3975a)
 
 Для того, чтобы начать работать с файлом, необходимо его копировать его в папку, где находится сам код IDLE.
 >
-![image](https://github.com/Boliti/5-2-2-LASER/assets/146436355/b0b71073-7237-4fca-9f6e-b6aaa39ae68e)
+![image](https://github.com/Boliti/5-2-2-LASER/assets/146436355/6925e136-937a-499a-a4b6-ffde8dd97dd8)
+>
+Теперь можно открыть наш csv при помощи библиотеки pandas. Выведем первые 5 строчек.
+>
+![image](https://github.com/Boliti/5-2-2-LASER/assets/146436355/768071ad-df8d-4d32-9e1c-1eaa6f597bdc)
+![image](https://github.com/Boliti/5-2-2-LASER/assets/146436355/d50924da-a197-458b-81d1-e56ccfec9523)
 
 
 

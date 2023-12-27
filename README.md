@@ -93,6 +93,17 @@
 ![image](https://github.com/Boliti/5-2-2-LASER/assets/146436355/768071ad-df8d-4d32-9e1c-1eaa6f597bdc)
 ![image](https://github.com/Boliti/5-2-2-LASER/assets/146436355/d50924da-a197-458b-81d1-e56ccfec9523)
 
+###Развернуть базу данных на web-сервере db4free.net
+Этапы выполнения «Разверстка на WEB-сервере db4free.net»
+>
+1.Проходим регистрацию на сайте db4free.net
+>
+2.Вводим SQL-скрипт создания базы данных и создания таблицы в этой бд
+![image](https://github.com/Boliti/5-2-2-LASER/assets/105819970/8d78a96b-2710-408d-81a7-4ed323451891)
+>
+![image](https://github.com/Boliti/5-2-2-LASER/assets/105819970/193ce328-d3b6-479a-8327-4b38bf57923a)
+![image](https://github.com/Boliti/5-2-2-LASER/assets/105819970/27b37301-c764-4512-941b-5348751f60d1)
+![image](https://github.com/Boliti/5-2-2-LASER/assets/105819970/9e026b04-90ea-4ba5-b76d-a8e52c073489)
 
 
 

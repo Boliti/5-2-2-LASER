@@ -150,7 +150,8 @@
 >
 ![image](https://github.com/Boliti/5-2-2-LASER/assets/105819970/193ce328-d3b6-479a-8327-4b38bf57923a)
 ![image](https://github.com/Boliti/5-2-2-LASER/assets/105819970/27b37301-c764-4512-941b-5348751f60d1)
-![image](https://github.com/Boliti/5-2-2-LASER/assets/105819970/9e026b04-90ea-4ba5-b76d-a8e52c073489)
+![image](https://github.com/Boliti/5-2-2-LASER/assets/146436355/8dab9769-691f-4bc3-9961-14497b925e99)
+
 
 
 
